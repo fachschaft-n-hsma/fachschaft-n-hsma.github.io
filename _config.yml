@@ -29,7 +29,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fachschaft-n-hsma
 
 # Build settings
-theme: slate
+theme: minima
 #remote_theme: pages-themes/slate@v0.2.0
 plugins:
   - jekyll-feed
