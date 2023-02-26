@@ -2,9 +2,10 @@
 layout: post
 title:  "Campusrallye"
 date:   2023-02-26 21:16:44 +0100
-categories: jekyll update
 toc: true
 ---
+
+{{ content | toc }}
 
 Hallo und Willkommen zur Campusrallye.
 Bitte finde dich zuerst in einem Team aus ca. 5 Personen zusammen.
@@ -27,7 +28,7 @@ Die Ausleihzeit beträgt eine Woche.
 
 **Aufgabe**
 
-Was hängt vor dem S-Gebäude?
+Was hängt vor dem L-Gebäude?
 
 
 # Sekretariat
@@ -41,4 +42,4 @@ Die Sekretärin heißt Frau Kreuzholz und ihr könnt Sie oder die Fachschaft imm
 
 **Aufgabe**
 
-Fragt die Sekretärin nach eurer AUfgabe.
+Fragt die Sekretärin nach eurer Aufgabe.
