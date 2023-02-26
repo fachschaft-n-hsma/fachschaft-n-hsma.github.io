@@ -3,6 +3,7 @@ layout: post
 title:  "Campusrallye"
 date:   2023-02-26 21:16:44 +0100
 categories: jekyll update
+toc: true
 ---
 
 Hallo und Willkommen zur Campusrallye.
