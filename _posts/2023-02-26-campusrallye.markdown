@@ -43,3 +43,18 @@ Die Sekretärin heißt Frau Kreuzholz und ihr könnt Sie oder die Fachschaft imm
 **Aufgabe**
 
 Fragt die Sekretärin nach eurer Aufgabe.
+
+
+# Delta Racing
+![Delta-Racing](https://www.delta-racing.de/deltacar.606fe01cac5849d3.png)
+
+Delta Racing ist ein Team aus etwa 60 Studis, die Elektro-Rennwagen bauen.
+Einmal pro Jahr tritt das Team dann bei der Formular Student um den ersten Platz an.
+Die nächste ist übrigens im August hier um die Ecke auf'm dem Hockenheimring.
+
+Die Werkstadt von Delta Racing befindet sich im G-Gebäude.
+
+**Aufgabe**
+
+Begebt euch zur Werkstadt und fragt nach der Aufgabe.
+
