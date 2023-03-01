@@ -34,38 +34,27 @@ Spaß. Die sind auch echt in Ordnung.
 Im A-Gebäude habt ihr auch zahlreiche Vorlesungen.
 Hier gibt es auch die ganzen Physik-Räume mit Experimenten.
 Manchmal finden hier auch [Vorträge](https://www.hs-mannheim.de/die-hochschule/veranstaltungen/vortragsreihen/physikalisches-kolloquium.html) zu verdammt interessanten Themen statt.
-Letztens sogar jemand der an der Entwicklung des James-Webb-Teleskop beteiltigt war, falls euch das was sagt.
+Letztens sogar von jemandem, der an der Entwicklung des James-Webb-Teleskop beteiltigt war, falls euch das was sagt.
 
 **Aufgabe**
 
-Was hängt im 3. Stock als drittes Bild an der Wand (gezählt wird vom Treppenhaus am Fahrstuhl)
+Was hängt im 2. Stock als drittes Bild an der Wand (gezählt vom Treppenhaus am Fahrstuhl aus)
 
 
-# L-Gebäude und Bibliothek
-
-![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg/440px-Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
-
-Die Bibliothek liegt im L-Gebäude.
-Hier könnt ihr jede Menge Fach- und Übungsbücher ausleihen.
-Vieles gibt es auch schon als E-Book.
-Die Ausleihzeit beträgt eine Woche.
-
-Neben der Bib gibt's hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum.
-Im L-Gebäude sitzt die Fakultät für Wirtschaftsingenieurwesen.
-
-**Aufgabe**
-
-Was hängt vor dem L-Gebäude?
-
-
-
-# Obstkorb
+# Gigantisches Obst
 ![Obstkorb](https://www.english.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusrundgang/06_gebaeudeg.jpg)
 
 Im G-Gebäude beheimatet sind die Fakultäten Maschinenbau, Biotechnologie und Verfahrenstechnik.
 
+Einmal die Woche ist vor dem Gebäude der Reparadel-Reperaturstand, an dem ihr mit Assistenz endlich die kleinen Wehwehchen an eurem Rad reparieren könnt.
+
+Außerdem gibt es hier ein paar mal im Jahr die Brau AG.
+Wer bock hat kann sich bei [Prof. Greiner](https://www.brau.hs-mannheim.de/ansprechpartner.html) anmelden und Bier selber brauen.
+
+Neben den AGs ist hier das Audimax der Hochschule in G013.
 
 **Aufgabe**
+Am Anfang des Gebäudes, neben dem Hochhaus, sind neben den ganzen Schließfächern eine riesige Zitrone und eine Birne.
 
 Macht ein Selfie von eurer Gruppe vor dem überdimensionalen Obst.
 Ihr könnt gerne kreativ werden.
@@ -79,7 +68,9 @@ Unser Handle ist `@fachschaft_n_hsma`.
 ![Hochhaus](https://e7architekten.de/wp-content/uploads/2014/12/034_HSH_02-1024x640.jpg)
 
 Das Hochhaus ist das bekannteste Gebäude der Hochschule Mannheim.
-Es ist 12 Stockwerke hoch,
+Es ist 12 Stockwerke hoch.
+Ab dem 8. Stock werden jedoch gerade Bauarbeiten ausgeführt.
+Da dürft ihr leider noch nicht hoch.
 Hier ist beispielsweise das Service-Center für Studierende oder das Prüfungsamt im ersten Stock untergebracht.
 Hier könnt ihr dann im Wintersemester z.B. auch eure HS-Card validieren lassen.
 (Der zweite Karten-Validierer hängt im L-Gebäude im Erdgeschoss.)
@@ -91,7 +82,7 @@ So leer wie heute werden sie morgen nicht mehr sein.
 
 **Aufgabe**
 
-Begebt euch in den obersten Stock (die ganz Harten machen ein Wettrennen im Treppenhaus) und gönnt euch erstmal die Aussicht.
+Begebt euch in den siebten Stock (die ganz Harten machen ein Wettrennen im Treppenhaus) und gönnt euch erstmal die Aussicht.
 Wenn ihr euch dann sattgesehen habt, scannt mal bitte den QR-Code.
 
 Ihr kommt auf eine Learning-App in der Fragen zur Stadt Mannheim durchgeführt werden.
@@ -131,6 +122,23 @@ Die Werkstatt von Delta Racing befindet sich im G-Gebäude.
 **Aufgabe**
 
 Begebt euch zur Werkstatt und fragt nach der Aufgabe.
+
+# L-Gebäude und Bibliothek
+
+![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg/440px-Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
+
+Die Bibliothek liegt im L-Gebäude.
+Hier könnt ihr jede Menge Fach- und Übungsbücher ausleihen.
+Vieles gibt es auch schon als E-Book.
+Die Ausleihzeit beträgt eine Woche.
+
+Neben der Bib gibt's hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum.
+Im L-Gebäude sitzt die Fakultät für Wirtschaftsingenieurwesen.
+
+**Aufgabe**
+
+Was hängt vor dem L-Gebäude?
+
 
 
 # Sekretariat
