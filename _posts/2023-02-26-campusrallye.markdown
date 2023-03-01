@@ -43,6 +43,19 @@ Was hängt im 3. Stock als drittes Bild an der Wand (gezählt wird vom Treppenha
 
 # L-Gebäude und Bibliothek
 
+![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg/440px-Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
+
+Die Bibliothek liegt im L-Gebäude.
+Hier könnt ihr jede Menge Fach- und Übungsbücher ausleihen.
+Vieles gibt es auch schon als E-Book.
+Die Ausleihzeit beträgt eine Woche.
+
+Neben der Bib gibt's hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum.
+Im L-Gebäude sitzt die Fakultät für Wirtschaftsingenieurwesen.
+
+**Aufgabe**
+
+Was hängt vor dem L-Gebäude?
 
 
 
@@ -104,20 +117,6 @@ Wenn ihr bockt habt, hockt euch gerne zusammen auf die Räder, macht wieder ein 
 
 Ihr könnt euch auch schonmal ein Nextbike-Konto erstellen. Ladet hierzu die Nextbike App aus dem App-Store herunter. 
 Im Prozess müsst ihr allerdings einen Bestätigungscode per E-Mail angeben, was voraussetzt, dass ihr eurer Hochschul-E-Mail-Konto bereits eingerichtet habt.
-
-![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg/440px-Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
-
-Die Bibliothek liegt im L-Gebäude.
-Hier könnt ihr jede Menge Fach- und Übungsbücher ausleihen.
-Vieles gibt es auch schon als E-Book.
-Die Ausleihzeit beträgt eine Woche.
-
-Neben der Bib gibt's hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum.
-Im L-Gebäude sitzt die Fakultät für Wirtschaftsingenieurwesen.
-
-**Aufgabe**
-
-Was hängt vor dem L-Gebäude?
 
 
 # Delta Racing
