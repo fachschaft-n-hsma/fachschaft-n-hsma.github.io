@@ -15,7 +15,9 @@ Je mehr Stages ihr absolviert, desto mehr Goodies bekommt ihr in euren Fachschaf
 Eine Tasche kriegen aber alle.
 
 Es ist egal in welcher Reihenfolge ihr die Stages absolviert.
-Ehrlich gesagt wird es wohl einfacher, wenn ihr nicht das macht, was alle anderen Gruppen machen.
+Ehrlich gesagt wird es wohl einfacher, wenn ihr als Gruppe nicht alle bei der gleichen Stage steht.
+Am Besten ihr teilt euch auf.
+
 Während der Rallye müsst ihr an den Stages verschieden Aufgaben lösen.
 **Schreibt euch die Antworten unbedingt auf.**
 Nur so könnt ihr beweisen, dass ihr alle Aufgaben gemacht habt.
@@ -49,33 +51,9 @@ Im zweiten Stock hängen Bilder an der Wand. Was ist auf dem dritten Bild (gezä
 Schreibt es euch auf, oder macht ein Foto mit eurem Handy.
 
 
-# Gigantisches Obst
-![Obstkorb](https://www.english.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusrundgang/06_gebaeudeg.jpg)
 
-Im G-Gebäude beheimatet sind die Fakultäten Maschinenbau, Biotechnologie und Verfahrenstechnik.
 
-Einmal pro Woche ist vor dem Gebäude der Reparadel-Reperaturstand, an dem ihr endlich die kleinen Wehwehchen an eurem Rad reparieren könnt.
-Es ist auch jemand von der Fakultät da, der euch hilft.
-
-Außerdem gibt es hier ein paar mal im Jahr die Brau AG.
-Wer bock hat kann sich bei [Prof. Greiner](https://www.brau.hs-mannheim.de/ansprechpartner.html) anmelden und Bier selber brauen.
-
-Neben den AGs ist hier das Audimax der Hochschule in G013. Guckt es euch ruhig mal an. Es ist echt groß.
-
-**Aufgabe**
-Am Anfang des Gebäudes, direkt neben dem Hochhaus, sind neben den ganzen Schließfächern eine riesige Zitrone und eine Birne.
-
-Macht ein Selfie von eurer Gruppe vor dem überdimensionalen Obst.
-Ihr könnt gerne kreativ werden.
-Je kreativer umso besser.
-
-Wenn ihr Instagram habt könnt ihr das Bild gerne in den Status stellen und uns, die Fachschaft markieren.
-Wir würden das Foto dann reposten, wenn's euch nicht ausmacht.
-Unser Handle auf Insta ist `@fachschaft_n_hsma`.
-
-Wenn ihr kein Insta habt oder nicht wollt, dass wir euch veröffentlichen, macht nur so ein Foto und zeigt es am Ende vor.
-
-# Hochhaus
+# H wie Hochhaus
 ![Hochhaus](https://e7architekten.de/wp-content/uploads/2014/12/034_HSH_02-1024x640.jpg)
 
 Das Hochhaus ist das bekannteste Gebäude der Hochschule Mannheim.
@@ -102,7 +80,33 @@ Wenn ihr euch dann sattgesehen habt, scannt mal bitte den QR-Code.
 Ihr kommt auf eine Learning-App in der Fragen zur Stadt Mannheim durchgeführt werden.
 Macht das Quiz und notiert euch die Punktzahl (nicht schummeln 🧐)
 
-# Nextbike Station
+# G-Gebäude - Wie gigantisches Obst
+![Obstkorb](https://www.english.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusrundgang/06_gebaeudeg.jpg)
+
+Im G-Gebäude beheimatet sind die Fakultäten Maschinenbau, Biotechnologie und Verfahrenstechnik.
+
+Einmal pro Woche ist vor dem Gebäude der Reparadel-Reperaturstand, an dem ihr endlich die kleinen Wehwehchen an eurem Rad reparieren könnt.
+Es ist auch jemand von der Fakultät da, der euch hilft.
+
+Außerdem gibt es hier ein paar mal im Jahr die Brau AG.
+Wer bock hat kann sich bei [Prof. Greiner](https://www.brau.hs-mannheim.de/ansprechpartner.html) anmelden und Bier selber brauen.
+
+Neben den AGs ist hier das Audimax der Hochschule in G013. Guckt es euch ruhig mal an. Es ist echt groß.
+
+**Aufgabe**
+Am Anfang des Gebäudes, direkt neben dem Hochhaus, sind neben den ganzen Schließfächern eine riesige Zitrone und eine Birne.
+
+Macht ein Selfie von eurer Gruppe vor dem überdimensionalen Obst.
+Ihr könnt gerne kreativ werden.
+Je kreativer umso besser.
+
+Wenn ihr Instagram habt könnt ihr das Bild gerne in den Status stellen und uns, die Fachschaft markieren.
+Wir würden das Foto dann reposten, wenn's euch nicht ausmacht.
+Unser Handle auf Insta ist `@fachschaft_n_hsma`.
+
+Wenn ihr kein Insta habt oder nicht wollt, dass wir euch veröffentlichen, macht nur so ein Foto und zeigt es am Ende vor.
+
+# J-Gebäude - Nextbike Station
 ![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
 
 Vielleicht sind euch in Mannheim schonmal die blauen VRNextbike-Fahrräder aufgefallen.
@@ -234,6 +238,7 @@ Bitte aufschreiben!
 
 # S-321 Büro von Herr Martin
 ![Martin](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/e/e/csm_Martin_13169fc42b.jpg)
+
 Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik.
 Sein Büro ist in S321.
 
@@ -275,9 +280,7 @@ Er gibt euch wieder ein Lösungswort.
 Bitte aufschreiben.
 
 
-# FINALE: Fachschaftsraum
-
-![Todo: Bild FSR]()
+# FINALE: S419 - Fachschaftsraum
 
 Ihr habt alles abgelaufen und euch tun die Füße weh?
 Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack ab.
