@@ -11,13 +11,20 @@ Hallo und Willkommen zur Campusrallye.
 Bitte finde dich zuerst in einem Team aus ca. 5 Personen zusammen.
 
 Die Rallye besteht aus mehreren Stages.
-Je mehr Stages ihr absolviert, desto mehr Goodies bekommt ihr für eure Fachschaftstasche.
-Eine Tasche kriegt aber jeder.
+Je mehr Stages ihr absolviert, desto mehr Goodies bekommt ihr in euren Fachschaftsrucksack.
+Eine Tasche kriegen aber alle.
 
 Es ist egal in welcher Reihenfolge ihr die Stages absolviert.
-Ehrlich gesagt wird es wohl einfacher, wenn ihr nicht eins nach dem Anderen macht.
-Wichtig ist nur **dass ihr euch die Codewörter aufschreibt** die ihr auf den verschiedenen Stages bekommt.
+Ehrlich gesagt wird es wohl einfacher, wenn ihr nicht das macht, was alle anderen Gruppen machen.
+Während der Rallye müsst ihr an den Stages verschieden Aufgaben lösen.
+**Schreibt euch die Antworten unbedingt auf.**
+Nur so könnt ihr beweisen, dass ihr alle Aufgaben gemacht habt.
 
+Hier habt ihr nochmal den Campusplan.
+Den werdet ihr brauchen um alles auf dem Campus zu finden.
+![Campusplan](https://www.hs-mannheim.de/fileadmin/user_upload/hauptseite/iframe/campusplan/img/campus_plan.gif)
+
+Noch was.
 Die Rallye geht durch die Gebäude in denen ihr auch Vorlesungen haben werdet.
 Wann ihr wo was habt seht ihr auf der [Stundenplan-Website](https://sp.inftech.hs-mannheim.de/ba/sem/1).
 Wenn ihr schonmal im Gebäude seid könnt ihr ruhig schonmal die Räume besuchen.
@@ -31,14 +38,15 @@ Das A-Gebäude ist die Heimat der Fakultät Informatik.
 Ersties dieser Studiengänge haben sich leider für das falsche Studium entschieden 😉
 Spaß. Die sind auch echt in Ordnung.
 
-Im A-Gebäude habt ihr auch zahlreiche Vorlesungen.
-Hier gibt es auch die ganzen Physik-Räume mit Experimenten.
+Hier sind unsere Physik-Räume mit Experimenten.
+Ihr habt ihr aber auch ganz reguläre Vorlesungen.
 Manchmal finden hier auch [Vorträge](https://www.hs-mannheim.de/die-hochschule/veranstaltungen/vortragsreihen/physikalisches-kolloquium.html) zu verdammt interessanten Themen statt.
 Letztens sogar von jemandem, der an der Entwicklung des James-Webb-Teleskop beteiltigt war, falls euch das was sagt.
 
 **Aufgabe**
 
-Was hängt im 2. Stock als drittes Bild an der Wand (gezählt vom Treppenhaus am Fahrstuhl aus)
+Im zweiten Stock hängen Bilder an der Wand. Was ist auf dem dritten Bild (gezählt vom Fahrstuhl aus) zu sehen?
+Schreibt es euch auf, oder macht ein Foto mit eurem Handy.
 
 
 # Gigantisches Obst
@@ -46,23 +54,26 @@ Was hängt im 2. Stock als drittes Bild an der Wand (gezählt vom Treppenhaus am
 
 Im G-Gebäude beheimatet sind die Fakultäten Maschinenbau, Biotechnologie und Verfahrenstechnik.
 
-Einmal die Woche ist vor dem Gebäude der Reparadel-Reperaturstand, an dem ihr mit Assistenz endlich die kleinen Wehwehchen an eurem Rad reparieren könnt.
+Einmal pro Woche ist vor dem Gebäude der Reparadel-Reperaturstand, an dem ihr endlich die kleinen Wehwehchen an eurem Rad reparieren könnt.
+Es ist auch jemand von der Fakultät da, der euch hilft.
 
 Außerdem gibt es hier ein paar mal im Jahr die Brau AG.
 Wer bock hat kann sich bei [Prof. Greiner](https://www.brau.hs-mannheim.de/ansprechpartner.html) anmelden und Bier selber brauen.
 
-Neben den AGs ist hier das Audimax der Hochschule in G013.
+Neben den AGs ist hier das Audimax der Hochschule in G013. Guckt es euch ruhig mal an. Es ist echt groß.
 
 **Aufgabe**
-Am Anfang des Gebäudes, neben dem Hochhaus, sind neben den ganzen Schließfächern eine riesige Zitrone und eine Birne.
+Am Anfang des Gebäudes, direkt neben dem Hochhaus, sind neben den ganzen Schließfächern eine riesige Zitrone und eine Birne.
 
 Macht ein Selfie von eurer Gruppe vor dem überdimensionalen Obst.
 Ihr könnt gerne kreativ werden.
 Je kreativer umso besser.
 
 Wenn ihr Instagram habt könnt ihr das Bild gerne in den Status stellen und uns, die Fachschaft markieren.
-Wir würden das Foto dann reposten.
-Unser Handle ist `@fachschaft_n_hsma`.
+Wir würden das Foto dann reposten, wenn's euch nicht ausmacht.
+Unser Handle auf Insta ist `@fachschaft_n_hsma`.
+
+Wenn ihr kein Insta habt oder nicht wollt, dass wir euch veröffentlichen, macht nur so ein Foto und zeigt es am Ende vor.
 
 # Hochhaus
 ![Hochhaus](https://e7architekten.de/wp-content/uploads/2014/12/034_HSH_02-1024x640.jpg)
@@ -71,18 +82,21 @@ Das Hochhaus ist das bekannteste Gebäude der Hochschule Mannheim.
 Es ist 12 Stockwerke hoch.
 Ab dem 8. Stock werden jedoch gerade Bauarbeiten ausgeführt.
 Da dürft ihr leider noch nicht hoch.
+
 Hier ist beispielsweise das Service-Center für Studierende oder das Prüfungsamt im ersten Stock untergebracht.
-Hier könnt ihr dann im Wintersemester z.B. auch eure HS-Card validieren lassen.
+Da könnt ihr dann im Wintersemester z.B. auch eure HS-Card validieren lassen.
+Das muss man nämlich jedes Semester machen.
 (Der zweite Karten-Validierer hängt im L-Gebäude im Erdgeschoss.)
 
-Im H-Gebäude finden auch einige Lehrveranstalungen wie MA1, DT1 oder EIP.
+Im H-Gebäude finden auch einige Lehrveranstaltungen wie MA1, DT1 oder EIP statt.
 Genaueres findet ihr im [Stundenplan](https://sp.inftech.hs-mannheim.de/ba/sem/1).
 Guckt euch die Vorlesungsräume gern schonmal an.
 So leer wie heute werden sie morgen nicht mehr sein.
 
 **Aufgabe**
 
-Begebt euch in den siebten Stock (die ganz Harten machen ein Wettrennen im Treppenhaus) und gönnt euch erstmal die Aussicht.
+Begebt euch in den 7.Stock (die ganz Harten machen ein Wettrennen im Treppenhaus) und gönnt euch erstmal die Aussicht.
+Geil, oder?
 Wenn ihr euch dann sattgesehen habt, scannt mal bitte den QR-Code.
 
 Ihr kommt auf eine Learning-App in der Fragen zur Stadt Mannheim durchgeführt werden.
@@ -96,7 +110,7 @@ Es gibt in Mannheim zahlreiche Stationen um die Räder auszuleihen, eine davon i
 
 Als Studierende habt dürft ihr die Räder für eine gewisse Zeit kostenlos ausleihen.
 Im Gegensatz zu Tier-Scootern müssen die Räder jedoch wieder an VRNextbike Station gefahren werden, damit sie nicht überall quer rumstehen.
-Da ihr zwei E-Mail-Adressen der Hochschule bekommen habt (eine mit Namen, einen mit Matrikelnummer) könnt ihr euch auch zwei Accounts erstellen um zwei Räder gleichzeitig auszleihen, falls ihr mal Besuch erwartet.
+Da ihr zwei E-Mail-Adressen der Hochschule bekommen habt (eine mit Namen, eine mit Matrikelnummer) könnt ihr euch auch zwei Accounts erstellen um zwei Räder gleichzeitig auszleihen, falls ihr zum Beispiel mal Besuch erwartet.
 
 **Aufgabe**
 
@@ -104,24 +118,47 @@ Begebt euch zur VR-Nextbike-Station der Hochschule und recherchiert *wie lange* 
 
 *Optional*
 
-Wenn ihr bockt habt, hockt euch gerne zusammen auf die Räder, macht wieder ein Gruppenfoto und markiert uns auf Insta.
+Wenn ihr bock habt, hockt euch gerne zusammen auf die Räder, macht wieder ein Gruppenfoto und markiert uns auf Insta.
 
 Ihr könnt euch auch schonmal ein Nextbike-Konto erstellen. Ladet hierzu die Nextbike App aus dem App-Store herunter. 
 Im Prozess müsst ihr allerdings einen Bestätigungscode per E-Mail angeben, was voraussetzt, dass ihr eurer Hochschul-E-Mail-Konto bereits eingerichtet habt.
 
 
-# Delta Racing
+# Vor dem Hochhaus - Delta Racing
 ![Delta-Racing](https://www.delta-racing.de/deltacar.606fe01cac5849d3.png)
 
 Delta Racing ist ein Team aus etwa 60 Studis, die Elektro-Rennwagen bauen.
 Einmal pro Jahr tritt das Team dann bei der Formular Student um den ersten Platz an.
 Die nächste ist übrigens im August hier um die Ecke auf'm dem Hockenheimring.
 
-Die Werkstatt von Delta Racing befindet sich im G-Gebäude.
+**Aufgabe**
+
+Heute hat Delta-Racing vor dem Hochhaus einen Stand aufgebaut.
+Setzt euch in den Rennwagen und macht ein Foto von euch.
+Markiert uns und delta gerne auf instagram oder macht nur ein Foto und zeigt es am Ende vor.
+
+# Vor dem Hochhaus - Studierendenwerk
+![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
+
+Das Studierendenwerk ist praktisch die gute Mutti auf dem Campus.
+Sie betreibt die Mensen, hilft euch wenn euch euer Studium stresst und verschafft euch einen Wohnheimsplatz, wenn ihr daheim ausziehen wollt.
+
+Das Studierendenwerk ist dabei nicht nur zuständig für die Hochschule Mannheim, sondern für alle Hochschulen in Mannheim. Sprich:
+- Uni Mannheim
+- DHBW
+- Musikhochschule
+- Popakademie
 
 **Aufgabe**
 
-Begebt euch zur Werkstatt und fragt nach der Aufgabe.
+Heute sind sie ebenfalls, wie Delta Racing vor dem Hochhaus und haben einen Stand.
+
+Geht da hin und beantwortet folgende Fragen:
+
+1. Wo kann ich mich bei persönlichen und studienbezogenen Problemen beim Studierendenwerk beraten lassen?
+2. Nenne drei Vorteile von Autoload!
+3. Wo kann ich schnell die Speisepläne an den Mensen und Cafeterien einsehen? 
+4. Um was ging es im letzten Instagram Beitrag des Studierendenwerks Mannheim?
 
 # L-Gebäude und Bibliothek
 
@@ -130,18 +167,22 @@ Begebt euch zur Werkstatt und fragt nach der Aufgabe.
 Die Bibliothek liegt im L-Gebäude.
 Hier könnt ihr jede Menge Fach- und Übungsbücher ausleihen.
 Vieles gibt es auch schon als E-Book.
-Die Ausleihzeit beträgt eine Woche.
+Die Ausleihzeit beträgt vier Wochen.
 
 Neben der Bib gibt's hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum.
-Im L-Gebäude sitzt die Fakultät für Wirtschaftsingenieurwesen.
+Im L-Gebäude sitzt außerdem die Fakultät für Wirtschaftsingenieurwesen.
 
 **Aufgabe**
 
-Was hängt vor dem L-Gebäude?
+Begebt euch zur Bibliothek und beantwortet die folgenden Fragen.
+Benutzt, wenn nötig, auch gerne die PCs oder fragt das Personal.
+
+1. Wie viele Bücher sind aktuell im 1.OG verfügbar?
+2. Alle Bücher werden nach einem Standort einsortiert. Was ist der Standort von "Grundlagen der Elektrotechnik" von Gert, Hagmann.
+3. Welche Farbe hat der Seesel im 1.OG?
 
 
-
-# Sekretariat
+# S120 - Sekretariat
 ![S-Gebäude](https://lh3.googleusercontent.com/p/AF1QipN76Elzk6DEop3n80PLId5dlE45a_GOL_YbP4C0=s680-w680-h510)
 
 Das Sekretäriat eurer Fakultät befindet sich im S-Gebäude, das ist die Heimat eurer Fakultät, der Fakultät Informationstechnik.
@@ -151,10 +192,87 @@ Das Sekretäriat ist Mo-Do von 09:00 - 12:00 besetzt.
 Die Sekretärin heißt Frau Kreuzholz und ihr könnt Sie oder die Fachschaft immer zu allen Belangen zu eurem Studium befragen.
 
 **Aufgabe**
+Was hängt untypisches im Schaukasten gegenüber des Sekretariats?
 
-Fragt die Sekretärin nach eurer Aufgabe.
+
+# S218 - Büro von Herr Giehl
+![Büro Giehl](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/6/a/csm_Giehl_8191730324.jpg)
+
+Herr Giehl ist euer Grundstudiumsleiter.
+Falls ihr bei dem Vortrag der Profs vorhin aufgepasst habt (und wir hoffen das habt ihr), dann wisst ihr, dass euer Studium aus einem Grund- oder Hauptstudium besteht.
+
+Während des Grundstudiums seid ihr noch etwas eingeschränkt.
+Es gibt kaum Wahlfächer, ihr werdet automatisch zu Prüfungen angemeldet und könnt euch nur abmelden, wenn ihr ein Gespräch mit dem Grundstiudiumsleiter geführt habt.
+
+**Aufgabe**
+
+Damit ihr ihn gleich etwas besser kennenlernt, sucht ihn in seinem Büro (S218) auf und fragt ihn die folgenden Fragen:
+
+1. Was ist sein Lieblingshobby?
+2. Was hat er ursprünglich selber mal studiert?
+3. Welche Fächer unterrichtet er?
+4. Was ist sein Lieblingsurlaubsland?
+5. Was ist sein Lieblings-Fußballverein?
+
+Beantwortet ihr alle Fragen richtig, wird er euch das Lösungswort sagen.
+Schreibt es euch auf, ihr werdet es später brauchen.
 
 
+# S216 - Büro von Herr Poppendieck
+![Büro Poppi](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/3/4/csm_POP_359c2c0f53.jpg)
+
+Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
+Als ihr euch immatrikuliert habt, habt ihr euch für einen von drei Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB) und Informationstechnik (IEB).
+
+**Aufgabe**
+
+Herr Poppendieck wird euch in seinem Büro (S216) verschiedene Bilder zeigen.
+Ordnet die Bilder den Begriffen zu.
+
+Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
+Bitte aufschreiben!
+
+# S-321 Büro von Herr Martin
+![Martin](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/e/e/csm_Martin_13169fc42b.jpg)
+Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik.
+Sein Büro ist in S321.
+
+**Aufgabe**
+
+Geht zu ihm ins Büro und beantwortet die drei Fragen:
+
+1. Was war sein 1. Auto?
+2. Was hat er ursprünglich mal studiert?
+3. Welche Fächer unterrichtet er?
+4. Was ist sein Lieblingsessen?
+
+Er sagt euch auch ein Lösungswort.
+Bitte wieder aufschreiben.
+
+# R106 - Büro von Herr Tan
+![Tan](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/f/7/csm_Profibild_WeiYapTan_f7be76d8c9.jpg)
+
+Herr Tan ist der Auslandsbeauftragte der Fakultät.
+Im Laufe eures Studium habt ihr Zeit für eine Auslandssemester.
+Wir empfehlen euch auch es durchzuziehen.
+
+Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen.
+Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig.
+Wenn's dann soweit ist fragt ruhig Herr Tan.
+
+**Aufgabe**
+
+Herr Tans Büro ist ein wenig Versteckt in R106.
+Dazu müsst ihr einmal aus dem S-Gebäude raus, um die Ecke zum Schwarzen Kasten und dort den Hintereingang nehmen.
+
+Geht zu seinem Büro und beantwortet die folgenden Fragen:
+
+1. Was ist sein Heimatland?
+2. Was ist nicht sein Fachgebiet?
+3. Mit welchen drei Formen kann man ein internationales Semester in sein Studium einbauen?
+
+Er gibt euch wieder ein Lösungswort.
+Bitte aufschreiben.
 
 
 # FINALE: Fachschaftsraum
