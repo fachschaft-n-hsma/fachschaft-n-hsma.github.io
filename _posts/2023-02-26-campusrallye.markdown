@@ -25,7 +25,7 @@ Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
 # A-Gebäude
-![Todo:Bild A-Gebäude]()
+![A-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/brNW6RdnDN4crpT?x=1920&y=539&a=true&file=building_a.jpg)
 
 Das A-Gebäude ist die Heimat der Fakultät Informatik.
 Ersties dieser Studiengänge haben sich leider für das falsche Studium entschieden 😉
@@ -89,7 +89,7 @@ Ihr kommt auf eine Learning-App in der Fragen zur Stadt Mannheim durchgeführt w
 Macht das Quiz und notiert euch die Punktzahl (nicht schummeln 🧐)
 
 # Nextbike Station
-![Nextbike](https://www.rheinpfalz.de/cms_media/module_img/4638/2319149_3_articledetail_91-123560157.webp)
+![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
 
 Vielleicht sind euch in Mannheim schonmal die blauen VRNextbike-Fahrräder aufgefallen.
 Es gibt in Mannheim zahlreiche Stationen um die Räder auszuleihen, eine davon ist hinter der Mensa der Hochschule.
@@ -155,22 +155,6 @@ Die Sekretärin heißt Frau Kreuzholz und ihr könnt Sie oder die Fachschaft imm
 Fragt die Sekretärin nach eurer Aufgabe.
 
 
-# Labor
-![Todo: Bild Labor]()
-Im S-Gebäude gibt es zwei "Labore".
-Es sind keine Labore wie ihr sie vielleich sonst kennt mit weißen Kitteln, Pipetten und Explosionen (also hoffentlich).
-Das Wort Labor kommt von lat. laborare also arbeiten.
-Vielleicht kennt jemand noch das lat. Sprichwort "ora et labora" also bete und arbeite.
-Je nachdem wie gut ihr euch auf die Laborversuche vorbereitet werdet ihr entweder das eine oder das andere tun.
-Aber das kriegt ihr schon hin.
-
-Das eine Labor ist im Raum **S113**, das andere in **S117**.
-Beide sind durch den Absolventenbereich getrennt.
-Hier darf man leider nicht durch.
-
-**Aufgabe**
-Kommt ins Labor (S117) und beantwortet unserem charmanten Mitarbeiter das Quiz.
-Notiert euch die Punkte und weiter geht's.
 
 
 # FINALE: Fachschaftsraum
