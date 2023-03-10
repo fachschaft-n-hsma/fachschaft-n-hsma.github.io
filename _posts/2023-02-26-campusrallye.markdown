@@ -18,7 +18,6 @@ Eine Tasche kriegen aber alle.
 Ihr bekommt am Anfang der Rallye ein kleines Papierkärtchen auf dem steht, wo ihr zuerst hin müsst.
 Danach ist die Reihenfolge der Stages allerdings komplett egal.
 Ehrlich gesagt wird es wohl einfacher, wenn ihr als Gruppe nicht alle bei der gleichen Stage steht.
-Am Besten ihr teilt euch auf.
 
 Während der Rallye müsst ihr an den Stages verschieden Aufgaben lösen.
 **Schreibt euch die Antworten unbedingt auf.**
@@ -150,8 +149,8 @@ Wer weiß, wenn ihr gut genug seid nehmen sie euch vielleicht direkt als Fahrer.
 # Vor dem Hochhaus - Studierendenwerk
 ![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
 
-Das Studierendenwerk ist praktisch your Partner on Campus.
-Sie betreibt die Mensen, hilft euch wenn euch euer Studium stresst und verschafft euch einen Wohnheimsplatz, wenn ihr daheim ausziehen wollt.
+Das Studierendenwerk ist praktisch Your Partner on Campus.
+Es betreibt die Mensen, hilft euch wenn euch euer Studium stresst und verschafft euch einen Wohnheimsplatz, wenn ihr daheim ausziehen wollt.
 
 Das Studierendenwerk ist dabei nicht nur zuständig für die Hochschule Mannheim, sondern für alle Hochschulen in Mannheim. Sprich:
 - Uni Mannheim
