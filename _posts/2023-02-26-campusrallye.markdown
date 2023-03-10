@@ -8,13 +8,15 @@ toc: true
 {{ content | toc }}
 
 Hallo und Willkommen zur Campusrallye.
-Bitte finde dich zuerst in einem Team aus ca. 5 Personen zusammen.
+Bitte finde dich zuerst in einem Team aus ca. 5 Personen zusammen und gebt euch einen Namen.
+(Nicht "die Einfallslosen").
 
 Die Rallye besteht aus mehreren Stages.
 Je mehr Stages ihr absolviert, desto mehr Goodies bekommt ihr in euren Fachschaftsrucksack.
 Eine Tasche kriegen aber alle.
 
-Es ist egal in welcher Reihenfolge ihr die Stages absolviert.
+Ihr bekommt am Anfang der Rallye ein kleines Papierkärtchen auf dem steht, wo ihr zuerst hin müsst.
+Danach ist die Reihenfolge der Stages allerdings komplett egal.
 Ehrlich gesagt wird es wohl einfacher, wenn ihr als Gruppe nicht alle bei der gleichen Stage steht.
 Am Besten ihr teilt euch auf.
 
@@ -49,8 +51,6 @@ Letztens sogar von jemandem, der an der Entwicklung des James-Webb-Teleskop bete
 
 Im zweiten Stock hängen Bilder an der Wand. Was ist auf dem dritten Bild (gezählt vom Fahrstuhl aus) zu sehen?
 Schreibt es euch auf, oder macht ein Foto mit eurem Handy.
-
-
 
 
 # H wie Hochhaus
@@ -141,10 +141,16 @@ Heute hat Delta-Racing vor dem Hochhaus einen Stand aufgebaut.
 Setzt euch in den Rennwagen und macht ein Foto von euch.
 Markiert uns und delta gerne auf instagram oder macht nur ein Foto und zeigt es am Ende vor.
 
+*Optional*
+
+Dreht ruhig eine kleine Runde mit dem Simulator wie Max Verstappen.
+Wer weiß, wenn ihr gut genug seid nehmen sie euch vielleicht direkt als Fahrer. 😏
+
+
 # Vor dem Hochhaus - Studierendenwerk
 ![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
 
-Das Studierendenwerk ist praktisch die gute Mutti auf dem Campus.
+Das Studierendenwerk ist praktisch your Partner on Campus.
 Sie betreibt die Mensen, hilft euch wenn euch euer Studium stresst und verschafft euch einen Wohnheimsplatz, wenn ihr daheim ausziehen wollt.
 
 Das Studierendenwerk ist dabei nicht nur zuständig für die Hochschule Mannheim, sondern für alle Hochschulen in Mannheim. Sprich:
@@ -155,7 +161,7 @@ Das Studierendenwerk ist dabei nicht nur zuständig für die Hochschule Mannheim
 
 **Aufgabe**
 
-Heute sind sie ebenfalls, wie Delta Racing vor dem Hochhaus und haben einen Stand.
+Heute sind sie ebenfalls, wie Delta Racing, vor dem Hochhaus.
 
 Geht da hin und beantwortet folgende Fragen:
 
@@ -213,10 +219,11 @@ Es gibt kaum Wahlfächer, ihr werdet automatisch zu Prüfungen angemeldet und k�
 Damit ihr ihn gleich etwas besser kennenlernt, sucht ihn in seinem Büro (S218) auf und fragt ihn die folgenden Fragen:
 
 1. Was ist sein Lieblingshobby?
-2. Was hat er ursprünglich selber mal studiert?
-3. Welche Fächer unterrichtet er?
-4. Was ist sein Lieblingsurlaubsland?
-5. Was ist sein Lieblings-Fußballverein?
+2. Was war sein 1. Auto?
+3. Was hat er ursprünglich selber mal studiert?
+4. Welches Fach unterrichtet er *nicht*?
+5. Was ist sein Lieblingsurlaubsland?
+6. Was ist sein Lieblings-Fußballverein?
 
 Beantwortet ihr alle Fragen richtig, wird er euch das Lösungswort sagen.
 Schreibt es euch auf, ihr werdet es später brauchen.
@@ -248,8 +255,9 @@ Geht zu ihm ins Büro und beantwortet die drei Fragen:
 
 1. Was war sein 1. Auto?
 2. Was hat er ursprünglich mal studiert?
-3. Welche Fächer unterrichtet er?
-4. Was ist sein Lieblingsessen?
+3. Welches Fach unterrichtet er *nicht*?
+4. Was ist seine Lieblingsurlaubsregion?
+5. Was ist das Lieblingsessen von Hr. Martin?
 
 Er sagt euch auch ein Lösungswort.
 Bitte wieder aufschreiben.
@@ -278,6 +286,20 @@ Geht zu seinem Büro und beantwortet die folgenden Fragen:
 
 Er gibt euch wieder ein Lösungswort.
 Bitte aufschreiben.
+
+
+# R 108 - MARS
+![Mars](https://malumni.de/wp-content/uploads/2020/11/Banner-malumni.de-MARS.jpg)
+
+Mars ist die Startup-Schmiede der Hochschule.
+Hier kannst du deine Ideen umsetzen, Teammember finden und dein Ding umsetzen.
+
+Daneben gibt es noch Zahlreiche Kurse, Workshops und Vorträge für Schlüsselqualifikationen die euch auch später im Berufsleben weit bringen können.
+
+**Aufgabe**
+
+Begebt euch zum Maker-Space in R108 und versucht die Aufgabe dort zu lösen.
+Anschließénd erhaltet ihr ein Lösungswort.
 
 
 # FINALE: S419 - Fachschaftsraum
