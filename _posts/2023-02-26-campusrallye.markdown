@@ -236,12 +236,12 @@ Wir wollen nicht, dass ihr das müsst, aber wenn's so wäre, wäre es gut zu wis
 Damit ihr ihn gleich etwas besser kennenlernt, sucht ihn in seinem Büro (S218) auf und beantwortet  die folgenden (erstaunlich persönlichen 👀) Fragen.
 Er hilft euch bestimmt.
 
-1. Was ist sein Lieblingshobby? 🎾
-2. Was war sein 1. Auto? 🚗
-3. Was hat er ursprünglich selber mal studiert? 👨‍🎓
-4. Welches Fach unterrichtet er *nicht*? ❌
-5. Was ist sein Lieblingsurlaubsland? 🌴
-6. Was ist sein Lieblings-Fußballverein? ⚽
+1. Was ist sein Lieblingshobby? 
+2. Was war sein 1. Auto? 
+3. Was hat er ursprünglich selber mal studiert? 
+4. Welches Fach unterrichtet er *nicht*? 
+5. Was ist sein Lieblingsurlaubsland? 
+6. Was ist sein Lieblings-Fußballverein? 
 
 Beantwortet ihr alle Fragen richtig, wird er euch das Lösungswort sagen.
 Schreibt es euch auf, ihr werdet es später brauchen.
@@ -276,11 +276,11 @@ Wie bei Herr Poppendieck, werdet ihr wahrscheinlich erst frühstens in zwei Seme
 
 Geht zu ihm ins Büro und beantwortet die drei Fragen:
 
-1. Was war sein 1. Auto? 🚗
-2. Was hat er ursprünglich mal studiert? 👨‍🎓
-3. Welches Fach unterrichtet er *nicht*? ❌
-4. Was ist seine Lieblingsurlaubsregion? 🌴
-5. Was ist das Lieblingsessen von Hr. Martin? 🥗
+1. Was war sein 1. Auto? 
+2. Was hat er ursprünglich mal studiert? 
+3. Welches Fach unterrichtet er *nicht*? 
+4. Was ist seine Lieblingsurlaubsregion? 
+5. Was ist das Lieblingsessen von Hr. Martin? 
 
 Er sagt euch auch ein Lösungswort.
 Bitte wieder aufschreiben.
@@ -303,9 +303,9 @@ Dazu müsst ihr einmal aus dem S-Gebäude raus, um die Ecke zum Schwarzen Kasten
 
 Geht zu seinem Büro und beantwortet die folgenden Fragen:
 
-1. Was ist sein Herkunftsland? 🚩
-2. Was ist nicht sein Fachgebiet? ❌
-3. Mit welchen drei Formen kann man ein internationales Semester in sein Studium einbauen? ✈
+1. Was ist sein Herkunftsland? 
+2. Was ist nicht sein Fachgebiet? 
+3. Mit welchen drei Formen kann man ein internationales Semester in sein Studium einbauen? 
 
 Er gibt euch wieder ein Lösungswort.
 Bitte aufschreiben.
