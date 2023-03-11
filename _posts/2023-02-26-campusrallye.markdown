@@ -17,20 +17,20 @@ Eine Tasche kriegen aber alle.
 
 Ihr bekommt am Anfang der Rallye ein kleines Papierkärtchen auf dem steht, wo ihr zuerst hin müsst.
 Danach ist die Reihenfolge der Stages allerdings komplett egal.
-Ehrlich gesagt wird es wohl einfacher, wenn ihr als Gruppe nicht alle bei der gleichen Stage steht.
+Ehrlich gesagt wird es wohl einfacher, wenn ihr nicht da hin geht wo alle anderen Gruppen gerade sind.
 
 Während der Rallye müsst ihr an den Stages verschieden Aufgaben lösen.
 **Schreibt euch die Antworten unbedingt auf.**
 Nur so könnt ihr beweisen, dass ihr alle Aufgaben gemacht habt.
 
 Hier habt ihr nochmal den Campusplan.
-Den werdet ihr brauchen um alles auf dem Campus zu finden.
+Den werdet ihr brauchen, um alles auf dem Campus zu finden.
 ![Campusplan](https://www.hs-mannheim.de/fileadmin/user_upload/hauptseite/iframe/campusplan/img/campus_plan.gif)
 
 Noch was.
 Die Rallye geht durch die Gebäude in denen ihr auch Vorlesungen haben werdet.
-Wann ihr wo was habt seht ihr auf der [Stundenplan-Website](https://sp.inftech.hs-mannheim.de/ba/sem/1).
-Wenn ihr schonmal im Gebäude seid könnt ihr ruhig schonmal die Räume besuchen.
+Wann ihr wo was habt, seht ihr auf der [Stundenplan-Website](https://sp.inftech.hs-mannheim.de/ba/sem/1).
+Wenn ihr schonmal im Gebäude seid, könnt ihr ruhig schonmal die Räume besuchen.
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
@@ -42,7 +42,7 @@ Ersties dieser Studiengänge haben sich leider für das falsche Studium entschie
 Spaß. Die sind auch echt in Ordnung.
 
 Hier sind unsere Physik-Räume mit Experimenten.
-Ihr habt ihr aber auch ganz reguläre Vorlesungen.
+Ihr habt hier aber auch ganz reguläre Vorlesungen.
 Manchmal finden hier auch [Vorträge](https://www.hs-mannheim.de/die-hochschule/veranstaltungen/vortragsreihen/physikalisches-kolloquium.html) zu verdammt interessanten Themen statt.
 Letztens sogar von jemandem, der an der Entwicklung des James-Webb-Teleskop beteiltigt war, falls euch das was sagt.
 
@@ -88,7 +88,7 @@ Einmal pro Woche ist vor dem Gebäude der Reparadel-Reperaturstand, an dem ihr e
 Es ist auch jemand von der Fakultät da, der euch hilft.
 
 Außerdem gibt es hier ein paar mal im Jahr die Brau AG.
-Wer bock hat kann sich bei [Prof. Greiner](https://www.brau.hs-mannheim.de/ansprechpartner.html) anmelden und Bier selber brauen.
+Wer Bock hat, kann sich bei [Prof. Greiner](https://www.brau.hs-mannheim.de/ansprechpartner.html) anmelden und Bier selber brauen.
 
 Neben den AGs ist hier das Audimax der Hochschule in G013. Guckt es euch ruhig mal an. Es ist echt groß.
 
@@ -99,7 +99,7 @@ Macht ein Selfie von eurer Gruppe vor dem überdimensionalen Obst.
 Ihr könnt gerne kreativ werden.
 Je kreativer umso besser.
 
-Wenn ihr Instagram habt könnt ihr das Bild gerne in den Status stellen und uns, die Fachschaft markieren.
+Wenn ihr Instagram habt, könnt ihr das Bild gerne in den Status stellen und uns, die Fachschaft markieren.
 Wir würden das Foto dann reposten, wenn's euch nicht ausmacht.
 Unser Handle auf Insta ist `@fachschaft_n_hsma`.
 
@@ -111,9 +111,9 @@ Wenn ihr kein Insta habt oder nicht wollt, dass wir euch veröffentlichen, macht
 Vielleicht sind euch in Mannheim schonmal die blauen VRNextbike-Fahrräder aufgefallen.
 Es gibt in Mannheim zahlreiche Stationen um die Räder auszuleihen, eine davon ist hinter der Mensa der Hochschule.
 
-Als Studierende habt dürft ihr die Räder für eine gewisse Zeit kostenlos ausleihen.
+Als Studierende dürft ihr die Räder für eine gewisse Zeit kostenlos ausleihen.
 Im Gegensatz zu Tier-Scootern müssen die Räder jedoch wieder an VRNextbike Station gefahren werden, damit sie nicht überall quer rumstehen.
-Da ihr zwei E-Mail-Adressen der Hochschule bekommen habt (eine mit Namen, eine mit Matrikelnummer) könnt ihr euch auch zwei Accounts erstellen um zwei Räder gleichzeitig auszleihen, falls ihr zum Beispiel mal Besuch erwartet.
+Da ihr zwei E-Mail-Adressen der Hochschule bekommen habt (eine mit Namen, eine mit Matrikelnummer), könnt ihr euch auch zwei Accounts erstellen, um zwei Räder gleichzeitig auszleihen, falls ihr zum Beispiel mal Besuch erwartet.
 
 **Aufgabe**
 
@@ -138,7 +138,7 @@ Die nächste ist übrigens im August hier um die Ecke auf'm dem Hockenheimring.
 
 Heute hat Delta-Racing vor dem Hochhaus einen Stand aufgebaut.
 Setzt euch in den Rennwagen und macht ein Foto von euch.
-Markiert uns und delta gerne auf instagram oder macht nur ein Foto und zeigt es am Ende vor.
+Markiert uns und delta gerne auf Instagram oder macht nur ein Foto und zeigt es am Ende vor.
 
 *Optional*
 
@@ -215,7 +215,7 @@ Es gibt kaum Wahlfächer, ihr werdet automatisch zu Prüfungen angemeldet und k�
 
 **Aufgabe**
 
-Damit ihr ihn gleich etwas besser kennenlernt, sucht ihn in seinem Büro (S218) auf und fragt ihn die folgenden Fragen:
+Damit ihr ihn gleich etwas besser kennenlernt, sucht ihn in seinem Büro (S218) auf und beantwortet  die folgenden Fragen (er hilft euch sicherlich):
 
 1. Was ist sein Lieblingshobby?
 2. Was war sein 1. Auto?
@@ -298,12 +298,14 @@ Daneben gibt es noch Zahlreiche Kurse, Workshops und Vorträge für Schlüsselqu
 **Aufgabe**
 
 Begebt euch zum Maker-Space in R108 und versucht die Aufgabe dort zu lösen.
-Anschließénd erhaltet ihr ein Lösungswort.
+Anschließend erhaltet ihr ein Lösungswort.
 
 
 # FINALE: S419 - Fachschaftsraum
 
 Ihr habt alles abgelaufen und euch tun die Füße weh?
-Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack ab.
+Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
+
+Tragt euch in die Whatsapp-Gruppen ein und wenn ihr Bock habt, dann kommt noch mit in die Mensa oder chillt mit uns im vierten OG und spielt eine Runde Pong.
 
 Wir freuen uns auf euch!
