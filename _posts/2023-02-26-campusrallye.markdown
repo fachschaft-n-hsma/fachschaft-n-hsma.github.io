@@ -9,19 +9,25 @@ toc: true
 
 Hallo und Willkommen zur Campusrallye.
 Bitte finde dich zuerst in einem Team aus ca. 5 Personen zusammen und gebt euch einen Namen.
-(Nicht "die Einfallslosen").
+Nicht *die Einfallslosen*.
 
 Die Rallye besteht aus mehreren Stages.
-Je mehr Stages ihr absolviert, desto mehr Goodies bekommt ihr in euren Fachschaftsrucksack.
-Eine Tasche kriegen aber alle.
+Ab *drei* absolvierten Stages bekommt ihr einen Rucksack und eine Tasche mit Goodies.
+Je weiterer Stage jeweils ein weiteres Goodie.
+Seid schnell!
+Sonst schnappen euch die Master-Ersties euch die ganzen Goodies weg.
 
 Ihr bekommt am Anfang der Rallye ein kleines Papierkärtchen auf dem steht, wo ihr zuerst hin müsst.
 Danach ist die Reihenfolge der Stages allerdings komplett egal.
-Ehrlich gesagt wird es wohl einfacher, wenn ihr nicht da hin geht wo alle anderen Gruppen gerade sind.
+Am einfachsten ist es, wenn ihr nicht da hin geht wo alle anderen Gruppen gerade sind.
+Die Zeit arbeitet gegen euch und anstehen dauert lange.
 
 Während der Rallye müsst ihr an den Stages verschieden Aufgaben lösen.
-**Schreibt euch die Antworten unbedingt auf.**
+Lösungen sind entweder Text-Antworten, Lösungswörter oder Fotos/Screenshots.
+**Schreibt euch die Lösungswörter unbedingt auf.**
 Nur so könnt ihr beweisen, dass ihr alle Aufgaben gemacht habt.
+
+Zu den Fotos: Das Team mit den kreativsten Fotos kriegt eine Belohnung von *einer Duplo-Packung pro Kopf*.
 
 Hier habt ihr nochmal den Campusplan.
 Den werdet ihr brauchen, um alles auf dem Campus zu finden.
@@ -38,7 +44,7 @@ Ihr werdet also niemand stören.
 ![A-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/brNW6RdnDN4crpT?x=1920&y=539&a=true&file=building_a.jpg)
 
 Das A-Gebäude ist die Heimat der Fakultät Informatik.
-Ersties dieser Studiengänge haben sich leider für das falsche Studium entschieden 😉
+Ersties dieser Fakultät haben sich leider für das falsche Studium entschieden 😉
 Spaß. Die sind auch echt in Ordnung.
 
 Hier sind unsere Physik-Räume mit Experimenten.
@@ -49,7 +55,7 @@ Letztens sogar von jemandem, der an der Entwicklung des James-Webb-Teleskop bete
 **Aufgabe**
 
 Im zweiten Stock hängen Bilder an der Wand. Was ist auf dem dritten Bild (gezählt vom Fahrstuhl aus) zu sehen?
-Schreibt es euch auf, oder macht ein Foto mit eurem Handy.
+Schreibt es euch auf oder macht ein Foto mit eurem Handy.
 
 
 # H wie Hochhaus
@@ -76,10 +82,11 @@ Begebt euch in den 7.Stock (die ganz Harten machen ein Wettrennen im Treppenhaus
 Geil, oder?
 Wenn ihr euch dann sattgesehen habt, scannt mal bitte den QR-Code.
 
-Ihr kommt auf eine Learning-App in der Fragen zur Stadt Mannheim durchgeführt werden.
-Macht das Quiz und notiert euch die Punktzahl (nicht schummeln 🧐)
+Ihr kommt auf einem Map-Quiz zur Stadt Mannheim.
+Versucht alles richtig zu beantworten und macht einen Screenshot von eurem Ergebnis.
 
-# G-Gebäude - Wie gigantisches Obst
+
+# G-Gebäude - Wie *g*igantisches Obst
 ![Obstkorb](https://www.english.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusrundgang/06_gebaeudeg.jpg)
 
 Im G-Gebäude beheimatet sind die Fakultäten Maschinenbau, Biotechnologie und Verfahrenstechnik.
@@ -93,6 +100,7 @@ Wer Bock hat, kann sich bei [Prof. Greiner](https://www.brau.hs-mannheim.de/ansp
 Neben den AGs ist hier das Audimax der Hochschule in G013. Guckt es euch ruhig mal an. Es ist echt groß.
 
 **Aufgabe**
+
 Am Anfang des Gebäudes, direkt neben dem Hochhaus, sind neben den ganzen Schließfächern eine riesige Zitrone und eine Birne.
 
 Macht ein Selfie von eurer Gruppe vor dem überdimensionalen Obst.
@@ -117,11 +125,12 @@ Da ihr zwei E-Mail-Adressen der Hochschule bekommen habt (eine mit Namen, eine m
 
 **Aufgabe**
 
-Begebt euch zur VR-Nextbike-Station der Hochschule und recherchiert *wie lange* man ein Bike als Studi ausleihen darf.
+Begebt euch zur VR-Nextbike-Station der Hochschule und recherchiert *wie lange* man ein Bike als Studi *kostenlos* ausleihen darf.
 
 *Optional*
 
 Wenn ihr bock habt, hockt euch gerne zusammen auf die Räder, macht wieder ein Gruppenfoto und markiert uns auf Insta.
+Unser Handle ist `@fachschaft_n_hsma`
 
 Ihr könnt euch auch schonmal ein Nextbike-Konto erstellen. Ladet hierzu die Nextbike App aus dem App-Store herunter. 
 Im Prozess müsst ihr allerdings einen Bestätigungscode per E-Mail angeben, was voraussetzt, dass ihr eurer Hochschul-E-Mail-Konto bereits eingerichtet habt.
@@ -138,7 +147,7 @@ Die nächste ist übrigens im August hier um die Ecke auf'm dem Hockenheimring.
 
 Heute hat Delta-Racing vor dem Hochhaus einen Stand aufgebaut.
 Setzt euch in den Rennwagen und macht ein Foto von euch.
-Markiert uns und delta gerne auf Instagram oder macht nur ein Foto und zeigt es am Ende vor.
+Markiert uns und Delta gerne auf Instagram oder macht nur ein Foto und zeigt es am Ende vor.
 
 *Optional*
 
@@ -201,6 +210,7 @@ Das Sekretäriat ist Mo-Do von 09:00 - 12:00 besetzt.
 Die Sekretärin heißt Frau Kreuzholz und ihr könnt Sie oder die Fachschaft immer zu allen Belangen zu eurem Studium befragen.
 
 **Aufgabe**
+
 Was hängt untypisches im Schaukasten gegenüber des Sekretariats?
 
 
@@ -242,7 +252,7 @@ Ordnet die Bilder den Begriffen zu.
 Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
 Bitte aufschreiben!
 
-# S-321 Büro von Herr Martin
+# S321 Büro von Herr Martin
 ![Martin](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/e/e/csm_Martin_13169fc42b.jpg)
 
 Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik.
@@ -287,7 +297,7 @@ Er gibt euch wieder ein Lösungswort.
 Bitte aufschreiben.
 
 
-# R 108 - MARS
+# R108 - MARS
 ![Mars](https://malumni.de/wp-content/uploads/2020/11/Banner-malumni.de-MARS.jpg)
 
 Mars ist die Startup-Schmiede der Hochschule.
