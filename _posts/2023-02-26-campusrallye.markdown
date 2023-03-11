@@ -40,7 +40,7 @@ Wenn ihr schonmal im Gebäude seid, könnt ihr ruhig schonmal die Räume besuche
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
-# A-Gebäude
+# A-Gebäude 👨‍💻💻💻
 ![A-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/brNW6RdnDN4crpT?x=1920&y=539&a=true&file=building_a.jpg)
 
 Das A-Gebäude ist die Heimat der Fakultät Informatik.
@@ -58,7 +58,7 @@ Im zweiten Stock hängen Bilder an der Wand. Was ist auf dem dritten Bild (gezä
 Schreibt es euch auf oder macht ein Foto mit eurem Handy.
 
 
-# H wie Hochhaus
+# H wie Hochhaus 🪁🪁🪁
 ![Hochhaus](https://e7architekten.de/wp-content/uploads/2014/12/034_HSH_02-1024x640.jpg)
 
 Das Hochhaus ist das bekannteste Gebäude der Hochschule Mannheim.
@@ -86,7 +86,7 @@ Ihr kommt auf einem Map-Quiz zur Stadt Mannheim.
 Versucht alles richtig zu beantworten und macht einen Screenshot von eurem Ergebnis.
 
 
-# G-Gebäude - Wie *g*igantisches Obst
+# G-Gebäude - Wie *g*igantisches Obst 🍋🍐🍉
 ![Obstkorb](https://www.english.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusrundgang/06_gebaeudeg.jpg)
 
 Im G-Gebäude beheimatet sind die Fakultäten Maschinenbau, Biotechnologie und Verfahrenstechnik.
@@ -113,7 +113,7 @@ Unser Handle auf Insta ist `@fachschaft_n_hsma`.
 
 Wenn ihr kein Insta habt oder nicht wollt, dass wir euch veröffentlichen, macht nur so ein Foto und zeigt es am Ende vor.
 
-# J-Gebäude - Nextbike Station
+# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️
 ![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
 
 Vielleicht sind euch in Mannheim schonmal die blauen VRNextbike-Fahrräder aufgefallen.
@@ -136,7 +136,7 @@ Ihr könnt euch auch schonmal ein Nextbike-Konto erstellen. Ladet hierzu die Nex
 Im Prozess müsst ihr allerdings einen Bestätigungscode per E-Mail angeben, was voraussetzt, dass ihr eurer Hochschul-E-Mail-Konto bereits eingerichtet habt.
 
 
-# Vor dem Hochhaus - Delta Racing
+# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁
 ![Delta-Racing](https://www.delta-racing.de/deltacar.606fe01cac5849d3.png)
 
 Delta Racing ist ein Team aus etwa 60 Studis, die Elektro-Rennwagen bauen.
@@ -146,16 +146,16 @@ Die nächste ist übrigens im August hier um die Ecke auf'm dem Hockenheimring.
 **Aufgabe**
 
 Heute hat Delta-Racing vor dem Hochhaus einen Stand aufgebaut.
-Setzt euch in den Rennwagen und macht ein Foto von euch.
+Setzt euch in den Rennwagen und macht ein episches Foto von euch.
 Markiert uns und Delta gerne auf Instagram oder macht nur ein Foto und zeigt es am Ende vor.
 
 *Optional*
 
-Dreht ruhig eine kleine Runde mit dem Simulator wie Max Verstappen.
-Wer weiß, wenn ihr gut genug seid nehmen sie euch vielleicht direkt als Fahrer. 😏
+Dreht ruhig eine kleine Runde mit dem Simulator, wie Max Verstappen.
+Wer weiß, wenn ihr gut genug seid nehmen sie euch vielleicht direkt als Fahrer/in. 😏
 
 
-# Vor dem Hochhaus - Studierendenwerk
+# Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥
 ![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
 
 Das Studierendenwerk ist praktisch Your Partner on Campus.
@@ -166,6 +166,7 @@ Das Studierendenwerk ist dabei nicht nur zuständig für die Hochschule Mannheim
 - DHBW
 - Musikhochschule
 - Popakademie
+- ja und uns halt
 
 **Aufgabe**
 
@@ -178,17 +179,22 @@ Geht da hin und beantwortet folgende Fragen:
 3. Wo kann ich schnell die Speisepläne an den Mensen und Cafeterien einsehen? 
 4. Um was ging es im letzten Instagram Beitrag des Studierendenwerks Mannheim?
 
-# L-Gebäude und Bibliothek
+# L wie Library 📚📚📚
 
 ![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg/440px-Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
 
 Die Bibliothek liegt im L-Gebäude.
 Hier könnt ihr jede Menge Fach- und Übungsbücher ausleihen.
-Vieles gibt es auch schon als E-Book.
-Die Ausleihzeit beträgt vier Wochen.
+Tipp: Krallt euch mal am Anfang gleich mal einen `Gert Hagmann -  Grundlagen der Elektrotechnik`.
+
+Vieles gibt es auch als E-Book, dann müsst ihr nicht schleppen.
+Wir studieren hier ja kein Jura sondern was mit Substanz.
+Die Ausleihzeit für Bücher beträgt vier Wochen.
+Ebooks müssen obviously nicht zurückgegeben werden.
+Die PDFs dürft ihr ruhig behalten 😉
 
 Neben der Bib gibt's hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum.
-Im L-Gebäude sitzt außerdem die Fakultät für Wirtschaftsingenieurwesen.
+Im L-Gebäude sitzt außerdem die Fakultät für Wirtschaftsingenieurwesen und das Sprachzentrum.
 
 **Aufgabe**
 
@@ -196,53 +202,59 @@ Begebt euch zur Bibliothek und beantwortet die folgenden Fragen.
 Benutzt, wenn nötig, auch gerne die PCs oder fragt das Personal.
 
 1. Wie viele Bücher sind aktuell im 1.OG verfügbar?
-2. Alle Bücher werden nach einem Standort einsortiert. Was ist der Standort von "Grundlagen der Elektrotechnik" von Gert, Hagmann.
-3. Welche Farbe hat der Seesel im 1.OG?
+2. Alle Bücher werden nach einem Standort einsortiert. Was ist der Standort von "Grundlagen der Elektrotechnik" von Gert Hagmann.
+3. Welche Farbe hat der Sessel im 1.OG?
 
 
-# S120 - Sekretariat
+# S120 - Sekretariat 🖊💻📅
 ![S-Gebäude](https://lh3.googleusercontent.com/p/AF1QipN76Elzk6DEop3n80PLId5dlE45a_GOL_YbP4C0=s680-w680-h510)
 
 Das Sekretäriat eurer Fakultät befindet sich im S-Gebäude, das ist die Heimat eurer Fakultät, der Fakultät Informationstechnik.
 Genauergesagt befindet es sich in Raum S120.
 
-Das Sekretäriat ist Mo-Do von 09:00 - 12:00 besetzt.
-Die Sekretärin heißt Frau Kreuzholz und ihr könnt Sie oder die Fachschaft immer zu allen Belangen zu eurem Studium befragen.
+Das Sekretäriat ist Mo-Do von 09:00 - 12:00 Uhr besetzt.
+Die Sekretärin heißt Frau Kreuzholz und ihr könnt sie oder die Fachschaft immer zu allen Themen zu eurem Studium befragen.
+Es gibt Nichts, was wir nicht schon gesehen haben.
 
 **Aufgabe**
 
 Was hängt untypisches im Schaukasten gegenüber des Sekretariats?
 
 
-# S218 - Büro von Herr Giehl
+# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫
 ![Büro Giehl](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/6/a/csm_Giehl_8191730324.jpg)
 
 Herr Giehl ist euer Grundstudiumsleiter.
 Falls ihr bei dem Vortrag der Profs vorhin aufgepasst habt (und wir hoffen das habt ihr), dann wisst ihr, dass euer Studium aus einem Grund- oder Hauptstudium besteht.
 
 Während des Grundstudiums seid ihr noch etwas eingeschränkt.
-Es gibt kaum Wahlfächer, ihr werdet automatisch zu Prüfungen angemeldet und könnt euch nur abmelden, wenn ihr ein Gespräch mit dem Grundstiudiumsleiter geführt habt.
+Es gibt wenig Wahlfächer, ihr werdet automatisch zu Prüfungen angemeldet und könnt euch nur abmelden, wenn ihr ein Gespräch mit dem Grundstiudiumsleiter geführt habt.
+Wir wollen nicht, dass ihr das müsst, aber wenn's so wäre, wäre es gut zu wissen wo er steckt.
 
 **Aufgabe**
 
-Damit ihr ihn gleich etwas besser kennenlernt, sucht ihn in seinem Büro (S218) auf und beantwortet  die folgenden Fragen (er hilft euch sicherlich):
+Damit ihr ihn gleich etwas besser kennenlernt, sucht ihn in seinem Büro (S218) auf und beantwortet  die folgenden (erstaunlich persönlichen 👀) Fragen.
+Er hilft euch bestimmt.
 
-1. Was ist sein Lieblingshobby?
-2. Was war sein 1. Auto?
-3. Was hat er ursprünglich selber mal studiert?
-4. Welches Fach unterrichtet er *nicht*?
-5. Was ist sein Lieblingsurlaubsland?
-6. Was ist sein Lieblings-Fußballverein?
+1. Was ist sein Lieblingshobby? 🎾
+2. Was war sein 1. Auto? 🚗
+3. Was hat er ursprünglich selber mal studiert? 👨‍🎓
+4. Welches Fach unterrichtet er *nicht*? ❌
+5. Was ist sein Lieblingsurlaubsland? 🌴
+6. Was ist sein Lieblings-Fußballverein? ⚽
 
 Beantwortet ihr alle Fragen richtig, wird er euch das Lösungswort sagen.
 Schreibt es euch auf, ihr werdet es später brauchen.
 
 
-# S216 - Büro von Herr Poppendieck
+# S216 - Büro von Herr Poppendieck 🧬🧬🧬
 ![Büro Poppi](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/3/4/csm_POP_359c2c0f53.jpg)
 
 Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
 Als ihr euch immatrikuliert habt, habt ihr euch für einen von drei Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB) und Informationstechnik (IEB).
+
+Er wird im Hauptstudium euer Ansprechpartner sein, wenn ihr MTB studiert.
+Im Hauptstudium seid ihr erst wenn ihr *alle* Vorlesungen des Grundstudiums abgeschlossen habt.
 
 **Aufgabe**
 
@@ -252,26 +264,28 @@ Ordnet die Bilder den Begriffen zu.
 Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
 Bitte aufschreiben!
 
-# S321 Büro von Herr Martin
+# S321 Büro von Herr Martin ⚡⚡⚡
 ![Martin](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/e/e/csm_Martin_13169fc42b.jpg)
 
-Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik.
+Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik (IEB).
 Sein Büro ist in S321.
+
+Wie bei Herr Poppendieck, werdet ihr wahrscheinlich erst frühstens in zwei Semestern mit ihm zu tun haben, wenn's ums Studium geht.
 
 **Aufgabe**
 
 Geht zu ihm ins Büro und beantwortet die drei Fragen:
 
-1. Was war sein 1. Auto?
-2. Was hat er ursprünglich mal studiert?
-3. Welches Fach unterrichtet er *nicht*?
-4. Was ist seine Lieblingsurlaubsregion?
-5. Was ist das Lieblingsessen von Hr. Martin?
+1. Was war sein 1. Auto? 🚗
+2. Was hat er ursprünglich mal studiert? 👨‍🎓
+3. Welches Fach unterrichtet er *nicht*? ❌
+4. Was ist seine Lieblingsurlaubsregion? 🌴
+5. Was ist das Lieblingsessen von Hr. Martin? 🥗
 
 Er sagt euch auch ein Lösungswort.
 Bitte wieder aufschreiben.
 
-# R106 - Büro von Herr Tan
+# R106 - Büro von Herr Tan 🛫🛫🛫
 ![Tan](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/f/7/csm_Profibild_WeiYapTan_f7be76d8c9.jpg)
 
 Herr Tan ist der Auslandsbeauftragte der Fakultät.
@@ -284,20 +298,20 @@ Wenn's dann soweit ist fragt ruhig Herr Tan.
 
 **Aufgabe**
 
-Herr Tans Büro ist ein wenig Versteckt in R106.
+Herr Tans Büro ist ein wenig versteckt in R106.
 Dazu müsst ihr einmal aus dem S-Gebäude raus, um die Ecke zum Schwarzen Kasten und dort den Hintereingang nehmen.
 
 Geht zu seinem Büro und beantwortet die folgenden Fragen:
 
-1. Was ist sein Heimatland?
-2. Was ist nicht sein Fachgebiet?
-3. Mit welchen drei Formen kann man ein internationales Semester in sein Studium einbauen?
+1. Was ist sein Herkunftsland? 🚩
+2. Was ist nicht sein Fachgebiet? ❌
+3. Mit welchen drei Formen kann man ein internationales Semester in sein Studium einbauen? ✈
 
 Er gibt euch wieder ein Lösungswort.
 Bitte aufschreiben.
 
 
-# R108 - MARS
+# R108 - MARS 🔴🔴🔴
 ![Mars](https://malumni.de/wp-content/uploads/2020/11/Banner-malumni.de-MARS.jpg)
 
 Mars ist die Startup-Schmiede der Hochschule.
@@ -307,11 +321,14 @@ Daneben gibt es noch Zahlreiche Kurse, Workshops und Vorträge für Schlüsselqu
 
 **Aufgabe**
 
-Begebt euch zum Maker-Space in R108 und versucht die Aufgabe dort zu lösen.
+Begebt euch zum Maker-Space in R108 und sprecht einen der Mars-Menschen an (sorry, der musste sein).
+
+Löst seine Aufgaben.
 Anschließend erhaltet ihr ein Lösungswort.
+Bitte aufschreiben!
 
 
-# FINALE: S419 - Fachschaftsraum
+# FINALE: S419 - Fachschaftsraum 🎯🏁🎯
 
 Ihr habt alles abgelaufen und euch tun die Füße weh?
 Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
