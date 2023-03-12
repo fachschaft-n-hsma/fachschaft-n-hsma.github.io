@@ -81,6 +81,7 @@ So leer wie heute werden sie morgen nicht mehr sein.
 Begebt euch in den 7.Stock (die ganz Harten machen ein Wettrennen im Treppenhaus) und gönnt euch erstmal die Aussicht.
 Geil, oder?
 Wenn ihr euch dann sattgesehen habt, scannt mal bitte den QR-Code.
+Falls irgendjemand den Zettel abgerissen hat ist hier nochmal der [Link](https://www.educaplay.com/learning-resources/14240698-monnem_quiz.html).
 
 Ihr kommt auf einem Map-Quiz zur Stadt Mannheim.
 Versucht alles richtig zu beantworten und macht einen Screenshot von eurem Ergebnis.
