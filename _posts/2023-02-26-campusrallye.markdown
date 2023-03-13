@@ -40,8 +40,7 @@ Wenn ihr schonmal im Gebäude seid, könnt ihr ruhig schonmal die Räume besuche
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
-# A-Gebäude
-👨‍💻💻💻
+# A-Gebäude 👨‍💻💻💻
 ![A-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/brNW6RdnDN4crpT?x=1920&y=539&a=true&file=building_a.jpg)
 
 Das A-Gebäude ist die Heimat der Fakultät Informatik.
@@ -59,8 +58,7 @@ Im zweiten Stock hängen Bilder an der Wand. Was ist auf dem dritten Bild (gezä
 Schreibt es euch auf oder macht ein Foto mit eurem Handy.
 
 
-# H wie Hochhaus
-🪁🪁🪁
+# H wie Hochhaus 🪁🪁🪁
 ![Hochhaus](https://e7architekten.de/wp-content/uploads/2014/12/034_HSH_02-1024x640.jpg)
 
 Das Hochhaus ist das bekannteste Gebäude der Hochschule Mannheim.
@@ -89,8 +87,7 @@ Ihr kommt auf einem Map-Quiz zur Stadt Mannheim.
 Versucht alles richtig zu beantworten und macht einen Screenshot von eurem Ergebnis.
 
 
-# G-Gebäude - Wie *g*igantisches Obst
-🍋🍐🍉
+# G-Gebäude - Wie *g*igantisches Obst 🍋🍐🍉
 ![Obstkorb](https://www.english.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusrundgang/06_gebaeudeg.jpg)
 
 Im G-Gebäude beheimatet sind die Fakultäten Maschinenbau, Biotechnologie und Verfahrenstechnik.
@@ -140,8 +137,7 @@ Ihr könnt euch auch schonmal ein Nextbike-Konto erstellen. Ladet hierzu die Nex
 Im Prozess müsst ihr allerdings einen Bestätigungscode per E-Mail angeben, was voraussetzt, dass ihr eurer Hochschul-E-Mail-Konto bereits eingerichtet habt.
 
 
-# Vor dem Hochhaus - Delta Racing
-🏎 🏎 🏁
+# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁
 ![Delta-Racing](https://www.delta-racing.de/deltacar.606fe01cac5849d3.png)
 
 Delta Racing ist ein Team aus etwa 60 Studis, die Elektro-Rennwagen bauen.
@@ -160,8 +156,7 @@ Dreht ruhig eine kleine Runde mit dem Simulator, wie Max Verstappen.
 Wer weiß, wenn ihr gut genug seid nehmen sie euch vielleicht direkt als Fahrer/in. 😏
 
 
-# Vor dem Hochhaus - Studierendenwerk
-🥘🏠🏥
+# Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥
 ![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
 
 Das Studierendenwerk ist praktisch Your Partner on Campus.
@@ -185,8 +180,7 @@ Geht da hin und beantwortet folgende Fragen:
 3. Wo kann ich schnell die Speisepläne an den Mensen und Cafeterien einsehen? 
 4. Um was ging es im letzten Instagram Beitrag des Studierendenwerks Mannheim?
 
-# L wie Library
-📚📚📚
+# L wie Library 📚📚📚
 
 ![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg/440px-Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
 
@@ -213,8 +207,7 @@ Benutzt, wenn nötig, auch gerne die PCs oder fragt das Personal.
 3. Welche Farbe hat der Sessel im 1.OG?
 
 
-# S120 - Sekretariat
-🖊💻📅
+# S120 - Sekretariat 🖊💻📅
 ![S-Gebäude](https://lh3.googleusercontent.com/p/AF1QipN76Elzk6DEop3n80PLId5dlE45a_GOL_YbP4C0=s680-w680-h510)
 
 Das Sekretäriat eurer Fakultät befindet sich im S-Gebäude, das ist die Heimat eurer Fakultät, der Fakultät Informationstechnik.
@@ -229,8 +222,7 @@ Es gibt Nichts, was wir nicht schon gesehen haben.
 Was hängt untypisches im Schaukasten gegenüber des Sekretariats?
 
 
-# S218 - Büro von Herr Giehl
-👨‍🏫👨‍🏫👨‍🏫
+# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫
 ![Büro Giehl](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/6/a/csm_Giehl_8191730324.jpg)
 
 Herr Giehl ist euer Grundstudiumsleiter.
@@ -256,8 +248,7 @@ Beantwortet ihr alle Fragen richtig, wird er euch das Lösungswort sagen.
 Schreibt es euch auf, ihr werdet es später brauchen.
 
 
-# S216 - Büro von Herr Poppendieck
-🧬🧬🧬
+# S216 - Büro von Herr Poppendieck 🧬🧬🧬
 ![Büro Poppi](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/3/4/csm_POP_359c2c0f53.jpg)
 
 Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
@@ -274,8 +265,7 @@ Ordnet die Bilder den Begriffen zu.
 Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
 Bitte aufschreiben!
 
-# S321 Büro von Herr Martin
-⚡⚡⚡
+# S321 Büro von Herr Martin ⚡⚡⚡
 ![Martin](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/e/e/csm_Martin_13169fc42b.jpg)
 
 Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik (IEB).
@@ -296,8 +286,7 @@ Geht zu ihm ins Büro und beantwortet die drei Fragen:
 Er sagt euch auch ein Lösungswort.
 Bitte wieder aufschreiben.
 
-# R106 - Büro von Herr Tan
-🛫🛫🛫
+# R106 - Büro von Herr Tan 🛫🛫🛫
 ![Tan](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/f/7/csm_Profibild_WeiYapTan_f7be76d8c9.jpg)
 
 Herr Tan ist der Auslandsbeauftragte der Fakultät.
@@ -323,8 +312,7 @@ Er gibt euch wieder ein Lösungswort.
 Bitte aufschreiben.
 
 
-# R108 - MARS
-🔴🔴🔴
+# R108 - MARS 🔴🔴🔴
 ![Mars](https://malumni.de/wp-content/uploads/2020/11/Banner-malumni.de-MARS.jpg)
 
 Mars ist die Startup-Schmiede der Hochschule.
@@ -341,8 +329,7 @@ Anschließend erhaltet ihr ein Lösungswort.
 Bitte aufschreiben!
 
 
-# FINALE: S409 - Fachschaftsraum
-🎯🏁🎯
+# FINALE: S409 - Fachschaftsraum 🎯🏁🎯
 
 Ihr habt alles abgelaufen und euch tun die Füße weh?
 Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
