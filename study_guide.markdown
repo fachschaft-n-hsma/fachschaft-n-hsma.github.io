@@ -4,11 +4,6 @@ title: Study Guide
 permalink: /guide/
 ---
 
-# Regelungen
-
-## Studium-Lebenszyklus
-
-
 # Glossar
 
 Viele Studierende an der Hochschule kommen nicht aus einem Akademikerhaushalt.
@@ -92,6 +87,20 @@ Testate sind freiwillig, Labore nicht unbedingt.
 Es gibt Fächer, da sind Labore Voraussetzung, um eine Klausur zu schreiben.
 Es gibt auch welche, da ist es egal.
 Frag am Besten nach, wenn du's nicht weißt.
+
+# Labore
+Weißer Kittel, Pipetten und Erlenmeyerkolben?
+Nein, nein, nein.
+Labore bei bei uns sind wesentlich unprätentiöser.
+
+In Laboren macht man kleine Aufgaben um etwas Praxis in die Theorie zu bringen.
+Ständig nur in Vorlesungen drüber reden, das ist doch stinklangweilig.
+Du lernst auch noch die Geräte kennen, die du dein ganzes Leben brauchen wirst, wie z.B. ein Oszilloskop, Entwicklungsumgebungen oder medizinische Instrumente.
+
+In manchen Vorlesungen ist die Laborteilnahme Pflicht um die Klausur schreiben zu dürfen, in manchen ist es einfach nur freiwillig für dich.
+Einfach immer reingehen.
+Lohnt sich immer.
+Dabei lernt man noch neue Leute als Laborpartner kennen.
 
 ## Härtefall
 Manchmal braucht man zu Lange, manchmal läuft's einfach nicht.
