@@ -50,42 +50,11 @@ Spaß. Die sind auch echt in Ordnung.
 Hier sind unsere Physik-Räume mit Experimenten.
 Ihr habt hier aber auch ganz reguläre Vorlesungen.
 Manchmal finden hier auch [Vorträge](https://www.hs-mannheim.de/die-hochschule/veranstaltungen/vortragsreihen/physikalisches-kolloquium.html) zu verdammt interessanten Themen statt.
-Letztens sogar von jemandem, der an der Entwicklung des James-Webb-Teleskop beteiltigt war, falls euch das was sagt.
 
 **Aufgabe**
 
 Im zweiten Stock hängen Bilder an der Wand. Was ist auf dem dritten Bild (gezählt vom Fahrstuhl aus) zu sehen?
 Schreibt es euch auf oder macht ein Foto mit eurem Handy.
-
-
-# H wie Hochhaus 🪁🪁🪁
-![Hochhaus](https://e7architekten.de/wp-content/uploads/2014/12/034_HSH_02-1024x640.jpg)
-
-Das Hochhaus ist das bekannteste Gebäude der Hochschule Mannheim.
-Es ist 12 Stockwerke hoch.
-Ab dem 8. Stock werden jedoch gerade Bauarbeiten ausgeführt.
-Da dürft ihr leider noch nicht hoch.
-
-Hier ist beispielsweise das Service-Center für Studierende oder das Prüfungsamt im ersten Stock untergebracht.
-Da könnt ihr dann im Wintersemester z.B. auch eure HS-Card validieren lassen.
-Das muss man nämlich jedes Semester machen.
-(Der zweite Karten-Validierer hängt im L-Gebäude im Erdgeschoss.)
-
-Im H-Gebäude finden auch einige Lehrveranstaltungen wie MA1, DT1 oder EIP statt.
-Genaueres findet ihr im [Stundenplan](https://sp.inftech.hs-mannheim.de/ba/sem/1).
-Guckt euch die Vorlesungsräume gern schonmal an.
-So leer wie heute werden sie morgen nicht mehr sein.
-
-**Aufgabe**
-
-Begebt euch in den 7.Stock (die ganz Harten machen ein Wettrennen im Treppenhaus) und gönnt euch erstmal die Aussicht.
-Geil, oder?
-Wenn ihr euch dann sattgesehen habt, scannt mal bitte den QR-Code.
-Falls irgendjemand den Zettel abgerissen hat ist hier nochmal der [Link](https://www.educaplay.com/learning-resources/14240698-monnem_quiz.html).
-
-Ihr kommt auf einem Map-Quiz zur Stadt Mannheim.
-Versucht alles richtig zu beantworten und macht einen Screenshot von eurem Ergebnis.
-
 
 # G-Gebäude - Wie *g*igantisches Obst 🍋🍐🍉
 ![Obstkorb](https://www.english.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusrundgang/06_gebaeudeg.jpg)
@@ -135,77 +104,6 @@ Unser Handle ist `@fachschaft_n_hsma`
 
 Ihr könnt euch auch schonmal ein Nextbike-Konto erstellen. Ladet hierzu die Nextbike App aus dem App-Store herunter. 
 Im Prozess müsst ihr allerdings einen Bestätigungscode per E-Mail angeben, was voraussetzt, dass ihr eurer Hochschul-E-Mail-Konto bereits eingerichtet habt.
-
-
-# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁
-![Delta-Racing](https://www.delta-racing.de/deltacar.606fe01cac5849d3.png)
-
-Delta Racing ist ein Team aus etwa 60 Studis, die Elektro-Rennwagen bauen.
-Einmal pro Jahr tritt das Team dann bei der Formular Student um den ersten Platz an.
-Die nächste ist übrigens im August hier um die Ecke auf'm dem Hockenheimring.
-
-**Aufgabe**
-
-Heute hat Delta-Racing vor dem Hochhaus einen Stand aufgebaut.
-Setzt euch in den Rennwagen und macht ein episches Foto von euch.
-Markiert uns und Delta gerne auf Instagram oder macht nur ein Foto und zeigt es am Ende vor.
-
-*Optional*
-
-Dreht ruhig eine kleine Runde mit dem Simulator, wie Max Verstappen.
-Wer weiß, wenn ihr gut genug seid nehmen sie euch vielleicht direkt als Fahrer/in. 😏
-
-
-# Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥
-![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
-
-Das Studierendenwerk ist praktisch Your Partner on Campus.
-Es betreibt die Mensen, hilft euch wenn euch euer Studium stresst und verschafft euch einen Wohnheimsplatz, wenn ihr daheim ausziehen wollt.
-
-Das Studierendenwerk ist dabei nicht nur zuständig für die Hochschule Mannheim, sondern für alle Hochschulen in Mannheim. Sprich:
-- Uni Mannheim
-- DHBW
-- Musikhochschule
-- Popakademie
-- ja und uns halt
-
-**Aufgabe**
-
-Heute sind sie ebenfalls, wie Delta Racing, vor dem Hochhaus.
-
-Geht da hin und beantwortet folgende Fragen:
-
-1. Wo kann ich mich bei persönlichen und studienbezogenen Problemen beim Studierendenwerk beraten lassen?
-2. Nenne drei Vorteile von Autoload!
-3. Wo kann ich schnell die Speisepläne an den Mensen und Cafeterien einsehen? 
-4. Um was ging es im letzten Instagram Beitrag des Studierendenwerks Mannheim?
-
-# L wie Library 📚📚📚
-
-![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg/440px-Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
-
-Die Bibliothek liegt im L-Gebäude.
-Hier könnt ihr jede Menge Fach- und Übungsbücher ausleihen.
-Tipp: Krallt euch mal am Anfang gleich mal einen `Gert Hagmann -  Grundlagen der Elektrotechnik`.
-
-Vieles gibt es auch als E-Book, dann müsst ihr nicht schleppen.
-Wir studieren hier ja kein Jura sondern was mit Substanz.
-Die Ausleihzeit für Bücher beträgt vier Wochen.
-Ebooks müssen obviously nicht zurückgegeben werden.
-Die PDFs dürft ihr ruhig behalten 😉
-
-Neben der Bib gibt's hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum.
-Im L-Gebäude sitzt außerdem die Fakultät für Wirtschaftsingenieurwesen und das Sprachzentrum.
-
-**Aufgabe**
-
-Begebt euch zur Bibliothek und beantwortet die folgenden Fragen.
-Benutzt, wenn nötig, auch gerne die PCs oder fragt das Personal.
-
-1. Wie viele Bücher sind aktuell im 1.OG verfügbar?
-2. Alle Bücher werden nach einem Standort einsortiert. Was ist der Standort von "Grundlagen der Elektrotechnik" von Gert Hagmann.
-3. Welche Farbe hat der Sessel im 1.OG?
-
 
 # S120 - Sekretariat 🖊💻📅
 ![S-Gebäude](https://lh3.googleusercontent.com/p/AF1QipN76Elzk6DEop3n80PLId5dlE45a_GOL_YbP4C0=s680-w680-h510)
@@ -310,24 +208,6 @@ Geht zu seinem Büro und beantwortet die folgenden Fragen:
 
 Er gibt euch wieder ein Lösungswort.
 Bitte aufschreiben.
-
-
-# R108 - MARS 🔴🔴🔴
-![Mars](https://malumni.de/wp-content/uploads/2020/11/Banner-malumni.de-MARS.jpg)
-
-Mars ist die Startup-Schmiede der Hochschule.
-Hier kannst du deine Ideen umsetzen, Teammember finden und dein Ding umsetzen.
-
-Daneben gibt es noch Zahlreiche Kurse, Workshops und Vorträge für Schlüsselqualifikationen die euch auch später im Berufsleben weit bringen können.
-
-**Aufgabe**
-
-Begebt euch zum Maker-Space in R108 und sprecht einen der Mars-Menschen an (sorry, der musste sein).
-
-Löst seine Aufgaben.
-Anschließend erhaltet ihr ein Lösungswort.
-Bitte aufschreiben!
-
 
 # FINALE: S409 - Fachschaftsraum 🎯🏁🎯
 
