@@ -8,35 +8,32 @@ toc: true
 {{ content | toc }}
 
 Hallo und Willkommen zur Campusrallye.
-Bitte finde dich zuerst in einem Team aus ca. 5 Personen zusammen und gebt euch einen Namen.
-Nicht *die Einfallslosen*.
+Zu Beginn der Begrüßung habt Ihr neben eurem Studiausweis einen Zettel bekommen auf dem eine Zahl steht.
+Diese Zahl steht für euer Team.
+Findet euch zusammen und wenn Ihr wollt, gebt eurem Team einen Namen.
+(Nicht *die Einfallslosen*)
 
 Die Rallye besteht aus mehreren Stages.
-Ab *drei* absolvierten Stages bekommt ihr einen Rucksack und eine Tasche mit Goodies.
-Je weiterer Stage jeweils ein weiteres Goodie.
-Seid schnell!
-Sonst schnappen euch die Master-Ersties euch die ganzen Goodies weg.
+Neben der Zahl steht auf eurem Kärtchen auch welche Version der Rallye Ihr absolvieren sollt eure Starting-Stage.
+Nach der Starting-Stage ist die Reihenfolge in der Ihr die Rallye ablauft allerdings komplett egal.
+Am einfachsten ist es, wenn Ihr nicht da hin geht wo alle anderen Gruppen gerade sind.
+Da für die Rallye nur zwei Stunden eingeplant sind, arbeitet die Zeit gegen euch.
 
-Ihr bekommt am Anfang der Rallye ein kleines Papierkärtchen auf dem steht, wo ihr zuerst hin müsst.
-Danach ist die Reihenfolge der Stages allerdings komplett egal.
-Am einfachsten ist es, wenn ihr nicht da hin geht wo alle anderen Gruppen gerade sind.
-Die Zeit arbeitet gegen euch und anstehen dauert lange.
-
-Während der Rallye müsst ihr an den Stages verschieden Aufgaben lösen.
+Während der Rallye müsst Ihr an den Stages verschieden Aufgaben lösen.
 Lösungen sind entweder Text-Antworten, Lösungswörter oder Fotos/Screenshots.
 **Schreibt euch die Lösungswörter unbedingt auf.**
-Nur so könnt ihr beweisen, dass ihr alle Aufgaben gemacht habt.
+Nur so könnt Ihr beweisen, dass Ihr alle Aufgaben gemacht habt.
 
 Zu den Fotos: Das Team mit den kreativsten Fotos kriegt eine Belohnung von *einer Duplo-Packung pro Kopf*.
 
-Hier habt ihr nochmal den Campusplan.
-Den werdet ihr brauchen, um alles auf dem Campus zu finden.
+Hier habt Ihr nochmal den Campusplan.
+Den werdet Ihr brauchen, um euch zurechtzufinden.
 ![Campusplan](https://www.hs-mannheim.de/fileadmin/user_upload/hauptseite/iframe/campusplan/img/campus_plan.gif)
 
 Noch was.
-Die Rallye geht durch die Gebäude in denen ihr auch Vorlesungen haben werdet.
-Wann ihr wo was habt, seht ihr auf der [Stundenplan-Website](https://sp.inftech.hs-mannheim.de/ba/sem/1).
-Wenn ihr schonmal im Gebäude seid, könnt ihr ruhig schonmal die Räume besuchen.
+Die Rallye verläuft durch die Gebäude in denen Ihr auch Vorlesungen haben werdet.
+Wann Ihr wo was habt, seht Ihr auf der [Stundenplan-Website](https://sp.inftech.hs-mannheim.de/ba/sem/1).
+Wenn Ihr schonmal im Gebäude seid, könnt Ihr die Chance nutzen und euch die Räume angucken.
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
@@ -61,13 +58,11 @@ Schreibt es euch auf oder macht ein Foto mit eurem Handy.
 
 Im G-Gebäude beheimatet sind die Fakultäten Maschinenbau, Biotechnologie und Verfahrenstechnik.
 
-Einmal pro Woche ist vor dem Gebäude der Reparadel-Reperaturstand, an dem ihr endlich die kleinen Wehwehchen an eurem Rad reparieren könnt.
+Einmal pro Woche ist vor dem Gebäude der Reparadel-Reperaturstand, an dem Ihr endlich die kleinen Wehwehchen an eurem Rad reparieren könnt.
 Es ist auch jemand von der Fakultät da, der euch hilft.
 
 Außerdem gibt es hier ein paar mal im Jahr die Brau AG.
 Wer Bock hat, kann sich bei [Prof. Greiner](https://www.brau.hs-mannheim.de/ansprechpartner.html) anmelden und Bier selber brauen.
-
-Neben den AGs ist hier das Audimax der Hochschule in G013. Guckt es euch ruhig mal an. Es ist echt groß.
 
 **Aufgabe**
 
@@ -77,11 +72,11 @@ Macht ein Selfie von eurer Gruppe vor dem überdimensionalen Obst.
 Ihr könnt gerne kreativ werden.
 Je kreativer umso besser.
 
-Wenn ihr Instagram habt, könnt ihr das Bild gerne in den Status stellen und uns, die Fachschaft markieren.
+Wenn Ihr Instagram habt, könnt Ihr das Bild gerne in den Status stellen und uns, die Fachschaft markieren.
 Wir würden das Foto dann reposten, wenn's euch nicht ausmacht.
 Unser Handle auf Insta ist `@fachschaft_n_hsma`.
 
-Wenn ihr kein Insta habt oder nicht wollt, dass wir euch veröffentlichen, macht nur so ein Foto und zeigt es am Ende vor.
+Wenn Ihr kein Insta habt oder nicht wollt, dass wir euch veröffentlichen, macht nur ein ganz normales Foto und zeigt es am Ende vor.
 
 # J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️ [A und B]
 ![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
@@ -89,9 +84,9 @@ Wenn ihr kein Insta habt oder nicht wollt, dass wir euch veröffentlichen, macht
 Vielleicht sind euch in Mannheim schonmal die blauen VRNextbike-Fahrräder aufgefallen.
 Es gibt in Mannheim zahlreiche Stationen um die Räder auszuleihen, eine davon ist hinter der Mensa der Hochschule.
 
-Als Studierende dürft ihr die Räder für eine gewisse Zeit kostenlos ausleihen.
+Als Studierende dürft Ihr die Räder für eine gewisse Zeit kostenlos ausleihen.
 Im Gegensatz zu Tier-Scootern müssen die Räder jedoch wieder an VRNextbike Station gefahren werden, damit sie nicht überall quer rumstehen.
-Da ihr zwei E-Mail-Adressen der Hochschule bekommen habt (eine mit Namen, eine mit Matrikelnummer), könnt ihr euch auch zwei Accounts erstellen, um zwei Räder gleichzeitig auszleihen, falls ihr zum Beispiel mal Besuch erwartet.
+Da Ihr zwei E-Mail-Adressen der Hochschule bekommen habt (eine mit Namen, eine mit Matrikelnummer), könnt Ihr euch auch zwei Accounts erstellen, um zwei Räder gleichzeitig auszleihen, falls Ihr zum Beispiel mal Besuch erwartet.
 
 **Aufgabe**
 
@@ -99,11 +94,39 @@ Begebt euch zur VR-Nextbike-Station der Hochschule und recherchiert *wie lange* 
 
 *Optional*
 
-Wenn ihr bock habt, hockt euch gerne zusammen auf die Räder, macht wieder ein Gruppenfoto und markiert uns auf Insta.
+Wenn Ihr bock habt, hockt euch gerne zusammen auf die Räder, macht wieder ein Gruppenfoto und markiert uns auf Insta.
 Unser Handle ist `@fachschaft_n_hsma`
 
 Ihr könnt euch auch schonmal ein Nextbike-Konto erstellen. Ladet hierzu die Nextbike App aus dem App-Store herunter. 
-Im Prozess müsst ihr allerdings einen Bestätigungscode per E-Mail angeben, was voraussetzt, dass ihr eurer Hochschul-E-Mail-Konto bereits eingerichtet habt.
+Im Prozess müsst Ihr allerdings einen Bestätigungscode per E-Mail angeben, was voraussetzt, dass Ihr eurer Hochschul-E-Mail-Konto bereits eingerichtet habt.
+
+# L wie Library 📚📚📚 [B]
+
+![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg/440px-Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
+
+Die Bibliothek liegt im L-Gebäude.
+Hier könnt ihr jede Menge Fach- und Übungsbücher ausleihen.
+Tipp: Krallt euch mal am Anfang gleich mal einen `Gert Hagmann -  Grundlagen der Elektrotechnik`, der ist ständig weg und ist in ET1 und ET2 wirklich gut.
+
+Vieles gibt es auch als E-Book, dann müsst ihr nicht schleppen wie ein Justin.
+Wir studieren hier ja kein Jura sondern was mit Substanz.
+Die Ausleihzeit für Bücher beträgt vier Wochen.
+Ebooks müssen obviously nicht zurückgegeben werden.
+Die PDFs dürft ihr ruhig behalten 😉
+
+Neben der Bib gibt's hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum.
+Im L-Gebäude sitzt außerdem die Fakultät für Wirtschaftsingenieurwesen und das Sprachzentrum.
+
+**Aufgabe**
+
+Begebt euch zur Bibliothek und beantwortet die folgenden Fragen.
+Benutzt, wenn nötig, auch gerne die PCs oder fragt das Personal.
+
+1. Wie viele Bücher sind aktuell im 1.OG verfügbar?
+2. Alle Bücher werden nach einem Standort einsortiert. Was ist der Standort von "Grundlagen der Elektrotechnik" von Gert Hagmann.
+3. Welche Farbe hat der Sessel im 1.OG?
+
+
 
 # S120 - Sekretariat 🖊💻📅 [A und B]
 ![S-Gebäude](https://lh3.googleusercontent.com/p/AF1QipN76Elzk6DEop3n80PLId5dlE45a_GOL_YbP4C0=s680-w680-h510)
@@ -112,27 +135,23 @@ Das Sekretäriat eurer Fakultät befindet sich im S-Gebäude, das ist die Heimat
 Genauergesagt befindet es sich in Raum S120.
 
 Das Sekretäriat ist Mo-Do von 09:00 - 12:00 Uhr besetzt.
-Die Sekretärin heißt Frau Kreuzholz und ihr könnt sie oder die Fachschaft immer zu allen Themen zu eurem Studium befragen.
+Die Sekretärin heißt Frau Kreuzholz und Ihr könnt sie oder die Fachschaft immer zu allen Themen zu eurem Studium befragen.
 Es gibt Nichts, was wir nicht schon gesehen haben.
 
 **Aufgabe**
 
 Was hängt untypisches im Schaukasten gegenüber des Sekretariats?
 
-
 # S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 [A und B]
 ![Büro Giehl](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/6/a/csm_Giehl_8191730324.jpg)
 
 Herr Giehl ist euer Grundstudiumsleiter.
-Falls ihr bei dem Vortrag der Profs vorhin aufgepasst habt (und wir hoffen das habt ihr), dann wisst ihr, dass euer Studium aus einem Grund- oder Hauptstudium besteht.
-
-Während des Grundstudiums seid ihr noch etwas eingeschränkt.
-Es gibt wenig Wahlfächer, ihr werdet automatisch zu Prüfungen angemeldet und könnt euch nur abmelden, wenn ihr ein Gespräch mit dem Grundstiudiumsleiter geführt habt.
-Wir wollen nicht, dass ihr das müsst, aber wenn's so wäre, wäre es gut zu wissen wo er steckt.
+Falls Ihr bei dem Vortrag der Profs vorhin aufgepasst habt (und wir hoffen das habt Ihr), dann wisst Ihr, dass euer Studium aus einem Grund- oder Hauptstudium besteht.
+Wenn Ihr während des Grundstudiums Probleme habt oder euch Dinge unklar sind, ist Herr Giehl euer Ansprechpartner.
 
 **Aufgabe**
 
-Damit ihr ihn gleich etwas besser kennenlernt, sucht ihn in seinem Büro (S218) auf und beantwortet  die folgenden (erstaunlich persönlichen 👀) Fragen.
+Damit Ihr ihn gleich etwas besser kennenlernt, sucht ihn in seinem Büro (S218) auf und beantwortet  die folgenden (erstaunlich persönlichen 👀) Fragen.
 Er hilft euch bestimmt.
 
 1. Was ist sein Lieblingshobby? 
@@ -142,25 +161,25 @@ Er hilft euch bestimmt.
 5. Was ist sein Lieblingsurlaubsland? 
 6. Was ist sein Lieblings-Fußballverein? 
 
-Beantwortet ihr alle Fragen richtig, wird er euch das Lösungswort sagen.
-Schreibt es euch auf, ihr werdet es später brauchen.
+Beantwortet Ihr alle Fragen richtig, wird er euch das Lösungswort sagen.
+Schreibt es euch auf, Ihr werdet es später brauchen.
 
 
 # S216 - Büro von Herr Poppendieck 🧬🧬🧬 [B]
-![Büro Poppi](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/3/4/csm_POP_359c2c0f53.jpg)
+![Büro Poppi](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/3/4/csm_POP_7b5ffa077a.jpg)
 
 Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
-Als ihr euch immatrikuliert habt, habt ihr euch für einen von drei Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB) und Informationstechnik (IEB).
+Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von drei Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB) und Informationstechnik (IEB).
 
-Er wird im Hauptstudium euer Ansprechpartner sein, wenn ihr MTB studiert.
-Im Hauptstudium seid ihr erst wenn ihr *alle* Vorlesungen des Grundstudiums abgeschlossen habt.
+Er wird im Hauptstudium euer Ansprechpartner sein, wenn Ihr MTB studiert.
+Im Hauptstudium seid Ihr erst, wenn Ihr *alle* Vorlesungen des Grundstudiums abgeschlossen habt.
 
 **Aufgabe**
 
 Herr Poppendieck wird euch in seinem Büro (S216) verschiedene Bilder zeigen.
 Ordnet die Bilder den Begriffen zu.
 
-Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
+Wenn Ihr alles richtig habt, wird er euch das Lösungswort geben.
 Bitte aufschreiben!
 
 # S321 Büro von Herr Martin ⚡⚡⚡ [A]
@@ -169,11 +188,9 @@ Bitte aufschreiben!
 Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik (IEB).
 Sein Büro ist in S321.
 
-Wie bei Herr Poppendieck, werdet ihr wahrscheinlich erst frühstens in zwei Semestern mit ihm zu tun haben, wenn's ums Studium geht.
-
 **Aufgabe**
 
-Geht zu ihm ins Büro und beantwortet die drei Fragen:
+Geht zu ihm ins Büro und beantwortet die Fragen:
 
 1. Was war sein 1. Auto? 
 2. Was hat er ursprünglich mal studiert? 
@@ -184,14 +201,25 @@ Geht zu ihm ins Büro und beantwortet die drei Fragen:
 Er sagt euch auch ein Lösungswort.
 Bitte wieder aufschreiben.
 
-# Büro von Herr Bohli [A]
+# S110 -  Büro von Herr Bohli 👩‍💻🧑‍💻👨🏾‍💻 [A]
+![Bohli](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/c/b/csm_BJM_9f2b34f98d.jpg)
 
+Herr Bohli ist der Studiengangsleiter für den Studiengang Technische Informatik.
+
+**Aufgabe**
+
+Geht zu Ihm ins Büro und beantwortet die Fragen:
+1. frage 1
+2. Frage 2
+3. Frage 3
+4. Frage 4
+5. Frage 5
 
 # R106 - Büro von Herr Tan 🛫🛫🛫 [A]
 ![Tan](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/f/7/csm_Profibild_WeiYapTan_f7be76d8c9.jpg)
 
 Herr Tan ist der Auslandsbeauftragte der Fakultät.
-Im Laufe eures Studium habt ihr Zeit für eine Auslandssemester.
+Im Laufe eures Studium habt Ihr Zeit für eine Auslandssemester.
 Wir empfehlen euch auch es durchzuziehen.
 
 Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen.
@@ -201,7 +229,7 @@ Wenn's dann soweit ist fragt ruhig Herr Tan.
 **Aufgabe**
 
 Herr Tans Büro ist ein wenig versteckt in R106.
-Dazu müsst ihr einmal aus dem S-Gebäude raus, um die Ecke zum Schwarzen Kasten und dort den Hintereingang nehmen.
+Dazu müsst Ihr einmal aus dem S-Gebäude raus, um die Ecke zum Schwarzen Kasten und dort den Hintereingang nehmen.
 
 Geht zu seinem Büro und beantwortet die folgenden Fragen:
 
@@ -223,6 +251,6 @@ Bitte aufschreiben.
 Ihr habt alles abgelaufen und euch tun die Füße weh?
 Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
 
-Tragt euch in die Whatsapp-Gruppen ein und wenn ihr Bock habt, dann kommt noch mit in die Mensa oder chillt mit uns im vierten OG und spielt eine Runde Pong.
+Tragt euch in die Whatsapp-Gruppen ein und wenn Ihr Bock habt, dann kommt noch mit in die Mensa oder chillt mit uns im vierten OG und spielt eine Runde Pong.
 
 Wir freuen uns auf euch!
