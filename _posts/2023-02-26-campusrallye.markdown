@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Campusrallye"
-date:   2023-02-26 21:16:44 +0100
+title:  "Campusrallye Gesamt"
+date:   2023-09-25 00:00:00 +0100
 toc: true
 ---
 
@@ -40,7 +40,7 @@ Wenn ihr schonmal im Gebäude seid, könnt ihr ruhig schonmal die Räume besuche
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
-# A-Gebäude 👨‍💻💻💻
+# A-Gebäude  👨‍💻💻💻 [A und B]
 ![A-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/brNW6RdnDN4crpT?x=1920&y=539&a=true&file=building_a.jpg)
 
 Das A-Gebäude ist die Heimat der Fakultät Informatik.
@@ -56,7 +56,7 @@ Manchmal finden hier auch [Vorträge](https://www.hs-mannheim.de/die-hochschule/
 Im zweiten Stock hängen Bilder an der Wand. Was ist auf dem dritten Bild (gezählt vom Fahrstuhl aus) zu sehen?
 Schreibt es euch auf oder macht ein Foto mit eurem Handy.
 
-# G-Gebäude - Wie *g*igantisches Obst 🍋🍐🍉
+# G-Gebäude - Wie *g*igantisches Obst 🍋🍐🍉 [A und B]
 ![Obstkorb](https://www.english.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusrundgang/06_gebaeudeg.jpg)
 
 Im G-Gebäude beheimatet sind die Fakultäten Maschinenbau, Biotechnologie und Verfahrenstechnik.
@@ -83,7 +83,7 @@ Unser Handle auf Insta ist `@fachschaft_n_hsma`.
 
 Wenn ihr kein Insta habt oder nicht wollt, dass wir euch veröffentlichen, macht nur so ein Foto und zeigt es am Ende vor.
 
-# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️
+# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️ [A und B]
 ![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
 
 Vielleicht sind euch in Mannheim schonmal die blauen VRNextbike-Fahrräder aufgefallen.
@@ -105,7 +105,7 @@ Unser Handle ist `@fachschaft_n_hsma`
 Ihr könnt euch auch schonmal ein Nextbike-Konto erstellen. Ladet hierzu die Nextbike App aus dem App-Store herunter. 
 Im Prozess müsst ihr allerdings einen Bestätigungscode per E-Mail angeben, was voraussetzt, dass ihr eurer Hochschul-E-Mail-Konto bereits eingerichtet habt.
 
-# S120 - Sekretariat 🖊💻📅
+# S120 - Sekretariat 🖊💻📅 [A und B]
 ![S-Gebäude](https://lh3.googleusercontent.com/p/AF1QipN76Elzk6DEop3n80PLId5dlE45a_GOL_YbP4C0=s680-w680-h510)
 
 Das Sekretäriat eurer Fakultät befindet sich im S-Gebäude, das ist die Heimat eurer Fakultät, der Fakultät Informationstechnik.
@@ -120,7 +120,7 @@ Es gibt Nichts, was wir nicht schon gesehen haben.
 Was hängt untypisches im Schaukasten gegenüber des Sekretariats?
 
 
-# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫
+# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 [A und B]
 ![Büro Giehl](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/6/a/csm_Giehl_8191730324.jpg)
 
 Herr Giehl ist euer Grundstudiumsleiter.
@@ -146,7 +146,7 @@ Beantwortet ihr alle Fragen richtig, wird er euch das Lösungswort sagen.
 Schreibt es euch auf, ihr werdet es später brauchen.
 
 
-# S216 - Büro von Herr Poppendieck 🧬🧬🧬
+# S216 - Büro von Herr Poppendieck 🧬🧬🧬 [B]
 ![Büro Poppi](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/3/4/csm_POP_359c2c0f53.jpg)
 
 Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
@@ -163,7 +163,7 @@ Ordnet die Bilder den Begriffen zu.
 Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
 Bitte aufschreiben!
 
-# S321 Büro von Herr Martin ⚡⚡⚡
+# S321 Büro von Herr Martin ⚡⚡⚡ [A]
 ![Martin](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/e/e/csm_Martin_13169fc42b.jpg)
 
 Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik (IEB).
@@ -184,7 +184,10 @@ Geht zu ihm ins Büro und beantwortet die drei Fragen:
 Er sagt euch auch ein Lösungswort.
 Bitte wieder aufschreiben.
 
-# R106 - Büro von Herr Tan 🛫🛫🛫
+# Büro von Herr Bohli [A]
+
+
+# R106 - Büro von Herr Tan 🛫🛫🛫 [A]
 ![Tan](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/f/7/csm_Profibild_WeiYapTan_f7be76d8c9.jpg)
 
 Herr Tan ist der Auslandsbeauftragte der Fakultät.
@@ -208,6 +211,12 @@ Geht zu seinem Büro und beantwortet die folgenden Fragen:
 
 Er gibt euch wieder ein Lösungswort.
 Bitte aufschreiben.
+
+# Fragerunde [A und B]
+
+- Was ist der beste Döner um die Ecke (reimt sich auf Kombüse)
+- Welche Kneipe ist nicht in Mannheim
+- Dritte Frage
 
 # FINALE: S409 - Fachschaftsraum 🎯🏁🎯
 
