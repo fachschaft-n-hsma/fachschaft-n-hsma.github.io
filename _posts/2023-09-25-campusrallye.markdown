@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Campusrallye Gesamt"
-date:   2023-09-25 00:00:00 +0100
+date:   2023-09-07 00:00:00 +0100
 toc: true
 ---
 
