@@ -5,7 +5,6 @@ date:   2023-09-07 00:00:00 +0100
 toc: true
 ---
 
-{{ content | toc }}
 
 Hallo und Willkommen zur Campusrallye.
 Zu Beginn der Begrüßung habt Ihr neben eurem Studiausweis einen Zettel bekommen auf dem eine Zahl steht.
