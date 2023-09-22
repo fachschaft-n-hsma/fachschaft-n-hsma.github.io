@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Campusrallye Gesamt"
+title:  "Campusrallye B"
 date:   2023-09-07 00:00:00 +0100
 toc: true
 ---
@@ -37,7 +37,7 @@ Wenn Ihr schonmal im Gebäude seid, könnt Ihr die Chance nutzen und euch die R�
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
-# Stage 0 - Kennenlernen [A und B]
+# Stage 0 - Kennenlernen 
 ![Meeting])(https://www.chase.com/content/dam/unified-assets/photography/articles/student/student_taking-community-college-classes-while-in-university.jpg)
 Schön, ihr habt euch in eurem Team eingefunden. Vielleicht kennt ihr euch ja schon aus der Schule, vielleicht aber auch noch gar nicht.
 Das ist nicht schlimm.
@@ -48,7 +48,7 @@ Heute fangen wir erstmal klein an.
 
 Findet zum Anfang erstmal heraus, welcher Heimatort eurer Teammitglieder am entferntesten von Mannheim liegt.
 
-# A-Gebäude  👨‍💻💻💻 [A und B]
+# A-Gebäude  👨‍💻💻💻
 ![A-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/brNW6RdnDN4crpT?x=1920&y=539&a=true&file=building_a.jpg)
 
 Das A-Gebäude ist die Heimat der Fakultät Informatik.
@@ -64,7 +64,7 @@ Manchmal finden hier auch [Vorträge](https://www.hs-mannheim.de/die-hochschule/
 Im zweiten Stock hängen Bilder an der Wand. Was ist auf dem dritten Bild (gezählt vom Fahrstuhl aus) zu sehen?
 Schreibt es euch auf oder macht ein Foto mit eurem Handy.
 
-# G-Gebäude - Wie *g*igantisches Obst 🍋🍐🍉 [A und B]
+# G-Gebäude - Wie *g*igantisches Obst 🍋🍐🍉
 ![Obstkorb](https://www.english.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusrundgang/06_gebaeudeg.jpg)
 
 Im G-Gebäude beheimatet sind die Fakultäten Maschinenbau, Biotechnologie und Verfahrenstechnik.
@@ -89,7 +89,7 @@ Unser Handle auf Insta ist `@fachschaft_n_hsma`.
 
 Wenn Ihr kein Insta habt oder nicht wollt, dass wir euch veröffentlichen, macht nur ein ganz normales Foto und zeigt es am Ende vor.
 
-# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️ [A und B]
+# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️ 
 ![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
 
 Vielleicht sind euch in Mannheim schonmal die blauen VRNextbike-Fahrräder aufgefallen.
@@ -111,7 +111,7 @@ Unser Handle ist `@fachschaft_n_hsma`
 Ihr könnt euch auch schonmal ein Nextbike-Konto erstellen. Ladet hierzu die Nextbike App aus dem App-Store herunter. 
 Im Prozess müsst Ihr allerdings einen Bestätigungscode per E-Mail angeben, was voraussetzt, dass Ihr eurer Hochschul-E-Mail-Konto bereits eingerichtet habt.
 
-# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁 [B]
+# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁
 ![Delta-Racing](https://www.delta-racing.de/deltacar.606fe01cac5849d3.png)
 
 Delta Racing ist ein Team aus etwa 60 Studis, die Elektro-Rennwagen bauen.
@@ -133,33 +133,8 @@ Das bitte auch mitbringen.
 Setzt euch in den Rennwagen und macht ein episches Foto von euch.
 Markiert uns und Delta gerne auf Instagram oder macht nur ein Foto und zeigt es am Ende vor.
 
-# Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥 [A]
-![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
 
-Das Studierendenwerk ist praktisch Your Partner on Campus.
-Es betreibt die Mensen, hilft euch wenn euch euer Studium stresst und verschafft euch einen Wohnheimsplatz, wenn ihr daheim ausziehen wollt.
-
-Das Studierendenwerk ist dabei nicht nur zuständig für die Hochschule Mannheim, sondern für alle Hochschulen in Mannheim. Sprich:
-- Uni Mannheim
-- DHBW
-- Musikhochschule
-- Popakademie
-- ja und uns halt
-
-**Aufgabe**
-
-Heute sind sie ebenfalls, wie Delta Racing, vor dem Hochhaus.
-
-Geht da hin und beantwortet folgende Fragen:
-
-1. Wo kann ich mich bei persönlichen und studienbezogenen Problemen beim Studierendenwerk beraten lassen?
-2. Wie trete ich mit dem Studierendenwerk in Kontakt und wo findet die Beratung statt?
-3. Nenne drei Vorteile von Autoload!
-4. Wo kann ich schnell die Speisepläne an den Mensen und Cafeterien einsehen?
-5. Um was ging es im letzten TikTok Video des Studierendenwerks Mannheim?
-
-
-# L wie Library 📚📚📚 [B]
+# L wie Library 📚📚📚
 
 ![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg/440px-Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
 
@@ -187,7 +162,7 @@ Benutzt, wenn nötig, auch gerne die PCs oder fragt das Personal.
 
 `Hagmann, Gert: Grundlagen der Elektrotechnik : Das bewährte Lehrbuch für Studierende der Elektrotechnik und anderer technischer Studiengänge ab 1. Semester.`
 
-# S120 - Sekretariat 🖊💻📅 [A und B]
+# S120 - Sekretariat 🖊💻📅 
 ![S-Gebäude](https://lh3.googleusercontent.com/p/AF1QipN76Elzk6DEop3n80PLId5dlE45a_GOL_YbP4C0=s680-w680-h510)
 
 Das Sekretäriat eurer Fakultät befindet sich im S-Gebäude, das ist die Heimat eurer Fakultät, der Fakultät Informationstechnik.
@@ -201,7 +176,7 @@ Es gibt Nichts, was wir nicht schon gesehen haben.
 
 Was hängt untypisches im Schaukasten gegenüber des Sekretariats?
 
-# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 [A und B]
+# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 
 ![Büro Giehl](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/6/a/csm_Giehl_8191730324.jpg)
 
 Herr Giehl ist euer Grundstudiumsleiter.
@@ -216,7 +191,7 @@ Er hilft euch bestimmt.
 Beantwortet Ihr alle Fragen richtig, wird er euch das Lösungswort sagen.
 Schreibt es euch auf, Ihr werdet es später brauchen.
 
-# S216 - Büro von Herr Poppendieck 🧬🧬🧬 [B]
+# S216 - Büro von Herr Poppendieck 🧬🧬🧬 
 ![Büro Poppi](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/3/4/csm_POP_7b5ffa077a.jpg)
 
 Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
@@ -233,52 +208,7 @@ Ordnet die Bilder den Begriffen zu.
 Wenn Ihr alles richtig habt, wird er euch das Lösungswort geben.
 Bitte aufschreiben!
 
-# S321 Büro von Herr Martin ⚡⚡⚡ [A]
-![Martin](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/e/e/csm_Martin_13169fc42b.jpg)
-
-Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik (IEB).
-Sein Büro ist in S321.
-
-**Aufgabe**
-
-Geht zu ihm ins Büro und ratet die Antworten auf seine Fragen.
-Wenn ihr alles richtig habt, erhaltet ihr ein Lösungswort.
-Bitte aufschreiben!
-
-
-# S110 -  Büro von Herr Bohli 👩‍💻🧑‍💻👨🏾‍💻 [A]
-![Bohli](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/c/b/csm_BJM_9f2b34f98d.jpg)
-
-Herr Bohli ist der Studiengangsleiter für den Studiengang Technische Informatik.
-
-**Aufgabe**
-
-Geht zu Ihm ins Büro und ratet die Antworten auf seine Fragen.
-Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
-Bitte aufschreiben!
-
-# R106 - Büro von Herr Tan 🛫🛫🛫 [A]
-![Tan](https://www.inftech.hs-mannheim.de/fileadmin/_processed_/f/7/csm_Profibild_WeiYapTan_f7be76d8c9.jpg)
-
-Herr Tan ist der Auslandsbeauftragte der Fakultät.
-Im Laufe eures Studium habt Ihr Zeit für eine Auslandssemester.
-Wir empfehlen euch auch es durchzuziehen.
-
-Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen.
-Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig.
-Wenn's dann soweit ist fragt ruhig Herr Tan.
-
-**Aufgabe**
-
-Herr Tans Büro ist ein wenig versteckt in R106.
-Dazu müsst Ihr einmal aus dem S-Gebäude raus, um die Ecke zum Schwarzen Kasten und dort den Hintereingang nehmen.
-
-Geht zu seinem Büro und ratet die Antworten auf seine Fragen.
-
-Er gibt euch wieder ein Lösungswort.
-Bitte aufschreiben.
-
-# Zusatzfragen [A und B]
+# Zusatzfragen
 
 Was?! Ihr seid schon fertig und habt Nichts mehr zu tun?
 Hier ein paar Zusatzfragen für euch:
@@ -291,7 +221,7 @@ Hier ein paar Zusatzfragen für euch:
 - Wo gibt es den besten Döner in Laufweite?
 - Wo finden die Medizinvorlesungen statt?
 
-# FINALE: S409 - Fachschaftsraum 🎯🏁🎯 [A und B1]
+# FINALE: S409 - Fachschaftsraum 🎯🏁🎯
 
 Ihr habt alles abgelaufen und euch tun die Füße weh?
 Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
