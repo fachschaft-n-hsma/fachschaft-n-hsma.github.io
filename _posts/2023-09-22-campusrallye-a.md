@@ -38,7 +38,7 @@ Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
 # Stage 0 - Kennenlernen
-![Meeting])(https://www.chase.com/content/dam/unified-assets/photography/articles/student/student_taking-community-college-classes-while-in-university.jpg)
+![Meeting](https://www.chase.com/content/dam/unified-assets/photography/articles/student/student_taking-community-college-classes-while-in-university.jpg)
 Schön, ihr habt euch in eurem Team eingefunden. Vielleicht kennt ihr euch ja schon aus der Schule, vielleicht aber auch noch gar nicht.
 Das ist nicht schlimm.
 Ihr habt jezt erstmal eine Menge Zeit in der Hochschule, um euch kennenzulernen.
