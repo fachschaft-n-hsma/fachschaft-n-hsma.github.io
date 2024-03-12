@@ -1,7 +1,7 @@
 ---
-layout: page
-title:  "Campusrallye"
-permalink: /rallye
+layout: post
+title:  "Campusrallye Gesamt"
+date:   2024-03-12 00:00:00 +0100
 ---
 
 Herzlich Willkommen zur Campusrallye!
