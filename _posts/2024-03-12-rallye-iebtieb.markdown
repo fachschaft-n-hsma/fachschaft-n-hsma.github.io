@@ -26,7 +26,7 @@ Ihr werdet also niemand stören.
 Während der Rallye könnt ihr an manchen Stages Bilder von euch machen, auf Insta posten und die Fachschaft markieren (@fachschaft_n_hsma).
 Seid so lieb und fragt vorher alle im Team, ob das in Ordnung ist, wenn sie auf Insta zu sehen sind.
 
-# Stage 0 - Kennenlernen [MTB und IEB/TIB]
+# Stage 0 - Kennenlernen 
 <!--Todo: Bild sieht arg nach Stockphoto aus. Gibt's da Nichts anders?-->
 <!--![Meeting](https://www.chase.com/content/dam/unified-assets/photography/articles/student/student_taking-community-college-classes-while-in-university.jpg)-->
 Schön, ihr habt euch in eurem Team eingefunden. Vielleicht kennt ihr euch ja schon, vielleicht aber auch noch gar nicht.
@@ -36,7 +36,7 @@ Ein Studium ist der perfekte Ort um neue Leute kennenzulernen.
 
 Findet erstmal heraus, welcher Heimatort eurer Teammitglieder am entferntesten von Mannheim liegt.
 
-# A208 - Physiklabor  👨‍💻💻💻 [MTB und IEB/TIB]
+# A208 - Physiklabor  👨‍💻💻💻
 <!---Todo: Bild machen.-->
 <!--
 ![A-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/PEiJTZgNCdJbDos?file=/&fileId=8427501&x=1920&y=1080&a=true&etag=a1c9b7dd16fa63469de98fe1173c1615)
@@ -54,7 +54,7 @@ Manchmal finden hier auch [Vorträge](https://www.physik.hs-mannheim.de/institut
 <!--Todo: Aufgabe noch unklar.-->
 Begebt euch ins Physiklabor und löst die Aufgaben.
 
-# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️ [MTB und IEB/TIB]
+# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️ 
 ![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
 
 Vielleicht sind euch in Mannheim schonmal die blauen VRNextbike-Fahrräder aufgefallen.
@@ -77,7 +77,7 @@ Ladet die Nextbike App aus dem App-Store herunter.
 Wenn Ihr Bock habt, hockt euch gerne zusammen auf die Räder, macht ein Gruppenfoto und markiert uns auf Insta.
 
 
-# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁 [MTB und IEB/TIB]
+# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁 
 ![Delta-Racing](https://images.ctfassets.net/xj8295s6v7rc/60K08xxY8oHQsqXAR9RpZG/810d81037a40a179bc10ca2543f1c900/DR22-E.jpg)
 
 Delta Racing ist ein Team aus etwa 60 Studis, die Elektro-Rennwagen bauen.
@@ -90,7 +90,7 @@ Macht ein cooles Foto von euch und dem Rennwegan.
 Könnt Ihr auch gerne mit Markierung auf IG posten.
 Zeigt das Foto dem Personal, sie sagen euch dann das Lösungswort.
 
-# S120 - Sekretariat 🖊💻📅 [MTB und IEB/TIB]
+# S120 - Sekretariat 🖊💻📅 
 <!--Todo: Bild kaputt.-->
 ![S-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/9npSjZDTst67Xca?file=/&fileId=8427533&x=1920&y=1080&a=true&etag=9ff4175e26d7f5a4feabacaa8da292dc)
 
@@ -106,7 +106,7 @@ Es gibt Nichts, was wir nicht schon gesehen haben.
 Was hängt untypisches im Schaukasten gegenüber des Sekretariats?
 
 
-# S321 Büro von Herr Martin ⚡⚡⚡ [IEB/TIB]
+# S321 Büro von Herr Martin ⚡⚡⚡ 
 ![Martin](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/tYrGR5Mp4JNiENk?file=/&fileId=8427557&x=1920&y=1080&a=true&etag=cebd8b88c1dd04ea016ffe97bbbb85e0)
 
 Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik (IEB).
@@ -121,7 +121,7 @@ Wenn ihr alles richtig habt, erhaltet ihr ein Lösungswort.
 Bitte aufschreiben!
 
 
-# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 [MTB und IEB/TIB]
+# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 
 ![Büro Giehl](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/KgCrnZfdWmATN4q?file=/&fileId=8427558&x=1920&y=1080&a=true&etag=511f78121a14ccb72c27707fabd6b86d)
 <!--Todo: Giehl vielleicht nicht da. Sollte man eräwhnen.-->
 
@@ -145,7 +145,7 @@ Wenn ihr das gemacht habt, wird er euch ein Lösungswort sagen.
 
 
 
-# S110 -  Büro von Herr Bohli 👩‍💻🧑‍💻👨🏾‍💻 [IEB/TIB]
+# S110 -  Büro von Herr Bohli 👩‍💻🧑‍💻👨🏾‍💻 
 ![Bohli](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/F4iBK9grKB5gsAC?file=/&fileId=8427560&x=1920&y=1080&a=true&etag=0466abf1ddb0f2270918e1c849c4d642)
 
 Herr Bohli ist der Studiengangsleiter für den Studiengang Technische Informatik.
@@ -156,7 +156,7 @@ Geht zu Ihm ins Büro und ratet die Antworten auf seine Fragen.
 Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
 Bitte aufschreiben!
 
-# L wie Library 📚📚📚 [MTB und IEB/TIB]
+# L wie Library 📚📚📚 
 
 <!--Todo: Allgemeiner Hinweis Website Bibführungen-->
 ![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
@@ -188,7 +188,7 @@ Können Sie es im Regal finden?
 
 `Hagmann, Gert: Grundlagen der Elektrotechnik : Das bewährte Lehrbuch für Studierende der Elektrotechnik und anderer technischer Studiengänge ab 1. Semester.`
 
-# Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥 [MTB und IEB/TIB]
+# Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥
 ![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
 
 Das Studierendenwerk ist praktisch Your Partner on Campus.
@@ -212,7 +212,7 @@ Geht da hin und beantwortet folgende Fragen:
 4. Wo kann ich schnell die Speisepläne an den Mensen und Cafeterien einsehen?
 
 
-# Zusatzfragen [MTB und IEB/TIB]
+# Zusatzfragen
 
 Was?! Ihr seid schon fertig und habt Nichts mehr zu tun?
 Hier ein paar Zusatzfragen für euch:
@@ -225,7 +225,7 @@ Hier ein paar Zusatzfragen für euch:
     3. Filmriss
 - Wo finden die Medizinvorlesungen statt?
 
-# FINALE: S409 - Fachschaftsraum 🎯🎯🏁 [MTB und IEB/TIB]
+# FINALE: S409 - Fachschaftsraum 🎯🎯🏁
 <!--Todo: Foto Fachschaftsraum-->
 
 Ihr habt alles abgelaufen und euch tun die Füße weh?
