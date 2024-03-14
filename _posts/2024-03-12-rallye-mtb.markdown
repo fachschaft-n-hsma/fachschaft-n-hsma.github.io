@@ -29,6 +29,7 @@ Seid so lieb und fragt vorher alle im Team, ob das in Ordnung ist, wenn sie auf 
 # Stage 0 - Kennenlernen
 <!--Todo: Bild sieht arg nach Stockphoto aus. Gibt's da Nichts anders?-->
 <!--![Meeting](https://www.chase.com/content/dam/unified-assets/photography/articles/student/student_taking-community-college-classes-while-in-university.jpg)-->
+![Meeting](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/xeej6k3fYomgGFN?file=/&fileId=8453745&x=1152&y=768&a=true&etag=0ce6253438094d72521f06abcbbe7b7a)
 Schön, ihr habt euch in eurem Team eingefunden. Vielleicht kennt ihr euch ja schon, vielleicht aber auch noch gar nicht.
 Ein Studium ist der perfekte Ort um neue Leute kennenzulernen.
 
