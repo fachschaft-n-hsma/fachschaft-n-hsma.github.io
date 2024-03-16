@@ -48,7 +48,7 @@ Spaß. Die sind auch echt in Ordnung.
 
 Hier sind unsere Physik-Räume mit Experimenten.
 Ihr habt hier aber auch ganz reguläre Vorlesungen.
-Manchmal finden hier auch [Vorträge](https://www.physik.hs-mannheim.de/institut-ing/physikalisches-kolloquium.html) zu verdammt interessanten Themen statt.
+Manchmal finden hier auch [Vorträge](https://www.physik.hs-mannheim.de/aktuelles.html) zu verdammt interessanten Themen statt.
 
 **Aufgabe**
 
@@ -171,6 +171,8 @@ Wir studieren hier ja kein Jura sondern was mit Substanz.
 Die Ausleihzeit für Bücher beträgt vier Wochen.
 Ebooks müssen obviously nicht zurückgegeben werden.
 Die PDFs dürft ihr ruhig behalten 😉
+Wer sich noch unsicher ist kann gerne eine [Bibliothekseinführung](https://www.bib.hs-mannheim.de/hochschulbibliothek/veranstaltungskalender.html) besuchen.
+
 
 Neben der Bib gibt's hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum.
 Im L-Gebäude sitzt außerdem die Fakultät für Wirtschaftsingenieurwesen und das Sprachzentrum.
