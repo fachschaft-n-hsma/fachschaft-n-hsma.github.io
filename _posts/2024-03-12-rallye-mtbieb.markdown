@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Campusrallye Gesamt"
+title:  "Campusrallye MTB und IEB"
 date:   2024-03-12 00:00:00 +0100
 ---
 
@@ -28,7 +28,7 @@ Seid so lieb und fragt vorher alle im Team, ob das in Ordnung ist, wenn sie auf 
 
 Übrigens: Die kreativste Gruppe bekommt einen Extra-Preis!
 
-# Stage 0 - Kennenlernen [MTB/IEB und TIB/KIB]
+# Stage 0 - Kennenlernen
 <!--Todo: Bild sieht arg nach Stockphoto aus. Gibt's da Nichts anders?-->
 <!--![Meeting](https://www.chase.com/content/dam/unified-assets/photography/articles/student/student_taking-community-college-classes-while-in-university.jpg)-->
 ![Meeting](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/xeej6k3fYomgGFN?file=/&fileId=8453745&x=1152&y=768&a=true&etag=0ce6253438094d72521f06abcbbe7b7a)
@@ -39,7 +39,7 @@ Ein Studium ist der perfekte Ort um neue Leute kennenzulernen.
 
 Findet erstmal heraus, welcher Heimatort eurer Teammitglieder am entferntesten von Mannheim liegt.
 
-# A305 - Physiklabor  👨‍💻💻💻 [MTB/IEB und TIB/KIB]
+# A305 - Physiklabor  👨‍💻💻💻
 <!---Todo: Bild machen.-->
 <!--
 ![A-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/PEiJTZgNCdJbDos?file=/&fileId=8427501&x=1920&y=1080&a=true&etag=a1c9b7dd16fa63469de98fe1173c1615)
@@ -59,7 +59,7 @@ Begebt euch ins Physiklabor.
 Hier geht es um die wichtige Frage, wie Ihr das Studium erfolgreich meistern könnt und welche Beratungsmöglichkeiten es gibt, wenn im Laufe des Studiums Schwierigkeiten auftreten.
 Sprecht mit den Anwesenden und lasst Euch am Ende das Lösungswort geben.
 
-# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️ [MTB/IEB und TIB/KIB]
+# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️
 ![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
 
 Vielleicht sind euch in Mannheim schonmal die blauen VRNextbike-Fahrräder aufgefallen.
@@ -81,7 +81,7 @@ Ladet die Nextbike App aus dem App-Store herunter.
 
 Wenn Ihr Bock habt, hockt euch gerne zusammen auf die Räder, macht ein Gruppenfoto und markiert uns auf Insta.
 
-# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁 [MTB/IEB und TIB/KIB]
+# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁
 ![Delta-Racing](https://images.ctfassets.net/xj8295s6v7rc/60K08xxY8oHQsqXAR9RpZG/810d81037a40a179bc10ca2543f1c900/DR22-E.jpg)
 
 Delta Racing ist ein Team aus etwa 60 Studis, die Elektro-Rennwagen bauen.
@@ -95,101 +95,7 @@ Könnt Ihr auch gerne mit Markierung auf IG posten.
 
 Zeigt uns am Ende der Rallye das Foto. Falls die Stände bereits abgebaut sind, lasst Ihr diese Station einfach aus.
 
-# S120 - Sekretariat 🖊💻📅 [MTB/IEB und TIB/KIB]
-![S-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/9npSjZDTst67Xca?file=/&fileId=8427533&x=1920&y=1080&a=true&etag=9ff4175e26d7f5a4feabacaa8da292dc)
-
-Das Sekretariat der Fakultät Informationstechnik ist im S-Gebäude.
-Genauergesagt befindet es sich in Raum S120.
-Es ist Mo-Do von 09:00 - 12:00 Uhr besetzt.
-
-Gerade wenn Ihr Schwierigkeiten im Studium habt, z.B. Prüfungsangst oder private Schwierigkeiten, traut Euch, zu Fr. Kreuzholz zu gehen und ihr davon zu berichten. Sie kann Euch helfen, das richtige Unterstützungsangebot und den passenden Ansprechpartner zu finden. Es gibt hier an der Hochschule sehr viele Angebote, die die Studierenden sehr gerne unterstützen.
-
-**Aufgabe**
-
-Was hängt untypisches im Schaukasten gegenüber?
-
-# S216 - Büro von Herr Poppendieck 🧬🧬🧬 [MTB]
-![Büro Poppi](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/8C2SW49JxS2Rp6H?file=/&fileId=8427546&x=1920&y=1080&a=true&etag=302c66cd833b72a9ec63debc89979710)
-
-Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
-Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von vier Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB), Informationstechnik (IEB) und KI_Ingenieruswissenschaften (KIB).
-
-Er wird im Hauptstudium euer Ansprechpartner sein, wenn Ihr MTB studiert.
-Im Hauptstudium seid Ihr erst, wenn Ihr *alle* Vorlesungen des Grundstudiums abgeschlossen habt.
-
-**Aufgabe**
-
-Herr Poppendieck wird euch in seinem Büro (S216) verschiedene Bilder zeigen.
-Ordnet die Bilder den Begriffen zu.
-
-Wenn Ihr alles richtig habt, wird er euch das Lösungswort geben.
-Bitte aufschreiben!
-
-# S321 Büro von Herr Martin ⚡⚡⚡ [IEB/TIB]
-![Martin](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/tYrGR5Mp4JNiENk?file=/&fileId=8427557&x=1920&y=1080&a=true&etag=cebd8b88c1dd04ea016ffe97bbbb85e0)
-
-Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik (IEB).
-Sein Büro ist in S321.
-Wenn er nicht in seinem Büro ist, ist er in einem der Laborräume.
-<!--Todo: Reinnehmen: Martin kann auch im DS Labor sein.-->.
-
-**Aufgabe**
-
-Geht zu ihm ins Büro und ratet die Antworten auf seine Fragen.
-Wenn ihr alles richtig habt, erhaltet ihr ein Lösungswort.
-Bitte aufschreiben!
-
-# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 [MTB und TIB/KIB]
-![Büro Giehl](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/KgCrnZfdWmATN4q?file=/&fileId=8427558&x=1920&y=1080&a=true&etag=511f78121a14ccb72c27707fabd6b86d)
-<!--Todo: Giehl vielleicht nicht da. Sollte man eräwhnen.-->
-
-Herr Giehl ist euer Grundstudiumsleiter.
-Falls Ihr bei dem Vortrag der Profs vorhin aufgepasst habt (und wir hoffen das habt Ihr), dann wisst Ihr, dass euer Studium aus einem Grund- oder Hauptstudium besteht.
-Wenn Ihr während des Grundstudiums Probleme habt oder euch Dinge unklar sind, ist Herr Giehl euer Ansprechpartner.
-Er sitzt in S218.
-Falls er nicht da ist, müsst Ihr zuerst eine andere Stage machen.
-
-**Aufgabe**
-
-Die Vorlesungsunterlagen sind in Moodle.
-Hier findet ihr Skripte, Aufgaben, Literatur und alles was so zu einer Vorlesung gehört.
-Hier kann man dem/der Dozent/in auch schreiben, falls man Fragen oder Probleme hat.
-Sehr wichtig also!
-
-Geht an die PCs und meldet Euch bei Moodle an. Gibt es die Teammitglieder, die noch nicht angemeldet sind und die Hochschulmail noch nicht aktiviert haben? Wenn nicht, helft Euch gegenseitig.
-Anschließend erhalten Ihr das Lösungswort.
-
-# R106 - Büro von Herr Tan 🛫🛫🛫 [MTB]
-![Tan](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/343bYdN2yNKtBk7?file=/&fileId=8427559&x=1920&y=1080&a=true&etag=66ef0a7389456900161f54d135d0da86)
-
-Herr Tan ist der Auslandsbeauftragte der Fakultät. Im Laufe eures Studiums habt Ihr Zeit für eine Auslandssemester. Wir empfehlen euch auch es durchzuziehen.
-
-Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen. Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig. Wenn’s dann soweit ist fragt ruhig Herr Tan.
-
-**Aufgabe**
-
-Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das R- und das S- Gebäude sind zwar ein Gebäude aber man darf nicht von nach R gehen. Ihr müsst einmal aus dem S-Gebäude raus hinter zum schwarzen Kasten (O-Gebäude) und dort beim R-Gebäude den Hintereingang nehmen.
-Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wieder ein Lösungswort. Bitte aufschreiben.
-
-# S110 -  Büro von Herr Bohli 👩‍💻🧑‍💻👨🏾‍💻 [TIB/KIB]
-![Bohli](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/F4iBK9grKB5gsAC?file=/&fileId=8427560&x=1920&y=1080&a=true&etag=0466abf1ddb0f2270918e1c849c4d642)
-
-Herr Bohli ist der Studiengangsleiter für den Studiengang Technische Informatik.
-
-**Aufgabe**
-
-Geht zu Ihm ins Büro und ratet die Antworten auf seine Fragen.
-Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
-Bitte aufschreiben!
-
-# K111 - Büro von Herr Vetter[TIB/KIB]
-<!--Todo: ![Vetter]()-->
-
-Im Gebäude K müsst ihr in die erste Etage. Dort findest ihr das Büro von Herr Vetter. 
-Herr Vetter ist der Studiengangleiter vom neuen Studiengang KI-Ingenieurswissenschaften. 
-Er hält ein Aufgabenblatt für euch bereit. Wenn ihr die Aufgaben gelöst habt, erhaltet ihr ein Lösungswort.
-
-# L wie Library 📚📚📚 [MTB/IEB und TIB/KIB]
+# L wie Library 📚📚📚
 
 <!--Todo: Allgemeiner Hinweis Website Bibführungen-->
 ![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
@@ -220,7 +126,7 @@ Signatur hat es? Könnt Ihr es im Regal finden?
 
 `Hagmann, Gert: Grundlagen der Elektrotechnik : Das bewährte Lehrbuch für Studierende der Elektrotechnik und anderer technischer Studiengänge ab 1. Semester.`
 
-# Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥 [MTB/IEB und TIB/KIB]
+# Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥
 ![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
 
 Das Studierendenwerk ist praktisch Your Partner on Campus.
@@ -243,7 +149,83 @@ Folgende Fragen könnt Ihr lösen, in dem Ihr zum Stand des Studierendenwerks au
 2. Wie trete ich mit dem Studierendenwerk in Kontakt und wo findet die Beratung statt?
 3. Um was ging es im letzten Insta-Beitrag?
 
-# Zusatzfragen [MTB und IEB/TIB]
+# R106 - Büro von Herr Tan 🛫🛫🛫
+![Tan](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/343bYdN2yNKtBk7?file=/&fileId=8427559&x=1920&y=1080&a=true&etag=66ef0a7389456900161f54d135d0da86)
+
+Herr Tan ist der Auslandsbeauftragte der Fakultät. Im Laufe eures Studiums habt Ihr Zeit für eine Auslandssemester. Wir empfehlen euch auch es durchzuziehen.
+
+Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen. Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig. Wenn’s dann soweit ist fragt ruhig Herr Tan.
+
+**Aufgabe**
+
+Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das R- und das S- Gebäude sind zwar ein Gebäude aber man darf nicht von nach R gehen. Ihr müsst einmal aus dem S-Gebäude raus hinter zum schwarzen Kasten (O-Gebäude) und dort beim R-Gebäude den Hintereingang nehmen.
+Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wieder ein Lösungswort. Bitte aufschreiben.
+
+# S120 - Sekretariat 🖊💻📅
+![S-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/9npSjZDTst67Xca?file=/&fileId=8427533&x=1920&y=1080&a=true&etag=9ff4175e26d7f5a4feabacaa8da292dc)
+
+Das Sekretariat der Fakultät Informationstechnik ist im S-Gebäude.
+Genauergesagt befindet es sich in Raum S120.
+Es ist Mo-Do von 09:00 - 12:00 Uhr besetzt.
+
+Gerade wenn Ihr Schwierigkeiten im Studium habt, z.B. Prüfungsangst oder private Schwierigkeiten, traut Euch, zu Fr. Kreuzholz zu gehen und ihr davon zu berichten. Sie kann Euch helfen, das richtige Unterstützungsangebot und den passenden Ansprechpartner zu finden. Es gibt hier an der Hochschule sehr viele Angebote, die die Studierenden sehr gerne unterstützen.
+
+**Aufgabe**
+
+Was hängt untypisches im Schaukasten gegenüber?
+
+# S216 - Büro von Herr Poppendieck 🧬🧬🧬
+![Büro Poppi](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/8C2SW49JxS2Rp6H?file=/&fileId=8427546&x=1920&y=1080&a=true&etag=302c66cd833b72a9ec63debc89979710)
+
+Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
+Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von vier Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB), Informationstechnik (IEB) und KI_Ingenieruswissenschaften (KIB).
+
+Er wird im Hauptstudium euer Ansprechpartner sein, wenn Ihr MTB studiert.
+Im Hauptstudium seid Ihr erst, wenn Ihr *alle* Vorlesungen des Grundstudiums abgeschlossen habt.
+
+**Aufgabe**
+
+Herr Poppendieck wird euch in seinem Büro (S216) verschiedene Bilder zeigen.
+Ordnet die Bilder den Begriffen zu.
+
+Wenn Ihr alles richtig habt, wird er euch das Lösungswort geben.
+Bitte aufschreiben!
+
+# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫
+![Büro Giehl](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/KgCrnZfdWmATN4q?file=/&fileId=8427558&x=1920&y=1080&a=true&etag=511f78121a14ccb72c27707fabd6b86d)
+<!--Todo: Giehl vielleicht nicht da. Sollte man eräwhnen.-->
+
+Herr Giehl ist euer Grundstudiumsleiter.
+Falls Ihr bei dem Vortrag der Profs vorhin aufgepasst habt (und wir hoffen das habt Ihr), dann wisst Ihr, dass euer Studium aus einem Grund- oder Hauptstudium besteht.
+Wenn Ihr während des Grundstudiums Probleme habt oder euch Dinge unklar sind, ist Herr Giehl euer Ansprechpartner.
+Er sitzt in S218.
+Falls er nicht da ist, müsst Ihr zuerst eine andere Stage machen.
+
+**Aufgabe**
+
+Die Vorlesungsunterlagen sind in Moodle.
+Hier findet ihr Skripte, Aufgaben, Literatur und alles was so zu einer Vorlesung gehört.
+Hier kann man dem/der Dozent/in auch schreiben, falls man Fragen oder Probleme hat.
+Sehr wichtig also!
+
+Geht an die PCs und meldet Euch bei Moodle an. Gibt es die Teammitglieder, die noch nicht angemeldet sind und die Hochschulmail noch nicht aktiviert haben? Wenn nicht, helft Euch gegenseitig.
+Anschließend erhalten Ihr das Lösungswort.
+
+# S321 Büro von Herr Martin ⚡⚡⚡
+![Martin](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/tYrGR5Mp4JNiENk?file=/&fileId=8427557&x=1920&y=1080&a=true&etag=cebd8b88c1dd04ea016ffe97bbbb85e0)
+
+Herr Martin ist der Studiengangsleiter für den Studiengang Informationstechnik (IEB).
+Sein Büro ist in S321.
+Wenn er nicht in seinem Büro ist, ist er in einem der Laborräume.
+<!--Todo: Reinnehmen: Martin kann auch im DS Labor sein.-->.
+
+**Aufgabe**
+
+Geht zu ihm ins Büro und ratet die Antworten auf seine Fragen.
+Wenn ihr alles richtig habt, erhaltet ihr ein Lösungswort.
+Bitte aufschreiben!
+
+# Zusatzfragen
 
 Was?! Ihr seid schon fertig und habt Nichts mehr zu tun?
 Hier ein paar Zusatzfragen für euch:
@@ -256,8 +238,9 @@ Hier ein paar Zusatzfragen für euch:
     3. Filmriss
 - Wo finden die Medizinvorlesungen statt?
 
-# FINALE: S409 - Fachschaftsraum 🎯🎯🏁 [MTB und IEB/TIB]
+# FINALE: S409 - Fachschaftsraum 🎯🎯🏁
 <!--Todo: Foto Fachschaftsraum-->
 Ihr habt alles abgelaufen und euch tun die Füße weh? Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
 Tragt euch in die Whatsapp-Gruppen ein und wenn Ihr Bock habt, dann kommt noch mit in die Mensa oder chillt mit uns im vierten OG.
 Wir freuen uns auf euch!
+<!-- ---------- ENDE ---------- -->
