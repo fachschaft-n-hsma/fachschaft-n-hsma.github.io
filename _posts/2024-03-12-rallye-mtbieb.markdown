@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Campusrallye MTB und IEB"
+title:  "Campusrallye MTB/IEB"
 date:   2024-03-12 00:00:00 +0100
 ---
 
