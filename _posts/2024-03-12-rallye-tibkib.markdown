@@ -188,6 +188,16 @@ Wenn Ihr während des Grundstudiums Probleme habt oder euch Dinge unklar sind, i
 Er sitzt in S218.
 Falls er nicht da ist, müsst Ihr zuerst eine andere Stage machen.
 
+**Aufgabe**
+
+Die Vorlesungsunterlagen sind in Moodle.
+Hier findet ihr Skripte, Aufgaben, Literatur und alles was so zu einer Vorlesung gehört.
+Hier kann man dem/der Dozent/in auch schreiben, falls man Fragen oder Probleme hat.
+Sehr wichtig also!
+
+Geht an die PCs und meldet Euch bei Moodle an. Gibt es die Teammitglieder, die noch nicht angemeldet sind und die Hochschulmail noch nicht aktiviert haben? Wenn nicht, helft Euch gegenseitig.
+Anschließend erhalten Ihr das Lösungswort.
+
 # Zusatzfragen
 
 Was?! Ihr seid schon fertig und habt Nichts mehr zu tun?
