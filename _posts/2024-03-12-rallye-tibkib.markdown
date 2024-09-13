@@ -148,8 +148,7 @@ Folgende Fragen könnt Ihr lösen, in dem Ihr zum Stand des Studierendenwerks au
 3. Um was ging es im letzten Insta-Beitrag?
 
 # K111 - Büro von Herr Vetter
-<!--Todo: ![Vetter]()-->
-
+![Vetter](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/4D268yBYxYX9JZz?file=/&fileId=9655964&x=3584&y=2240&a=true&etag=6c28150857d0f3fbf2e4fe15566d7cd2)
 Im Gebäude K müsst ihr in die erste Etage. Dort findest ihr das Büro von Herr Vetter. 
 Herr Vetter ist der Studiengangleiter vom neuen Studiengang KI-Ingenieurswissenschaften. 
 Er hält ein Aufgabenblatt für euch bereit. Wenn ihr die Aufgaben gelöst habt, erhaltet ihr ein Lösungswort.
@@ -213,6 +212,7 @@ Hier ein paar Zusatzfragen für euch:
 
 # FINALE: S409 - Fachschaftsraum 🎯🎯🏁
 <!--Todo: Foto Fachschaftsraum-->
+![Fachschaft](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/fSAxEGzepNNPABy?file=/&fileId=9629473&x=3584&y=2240&a=true&etag=3fb1e1fb6ef7859c3e4d60981bcde6a6)
 Ihr habt alles abgelaufen und euch tun die Füße weh? Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
 Tragt euch in die Whatsapp-Gruppen ein und wenn Ihr Bock habt, dann kommt noch mit in die Mensa oder chillt mit uns im vierten OG.
 Wir freuen uns auf euch!

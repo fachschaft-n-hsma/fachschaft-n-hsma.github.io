@@ -240,6 +240,7 @@ Hier ein paar Zusatzfragen für euch:
 
 # FINALE: S409 - Fachschaftsraum 🎯🎯🏁
 <!--Todo: Foto Fachschaftsraum-->
+![Fachschaft](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/fSAxEGzepNNPABy?file=/&fileId=9629473&x=3584&y=2240&a=true&etag=3fb1e1fb6ef7859c3e4d60981bcde6a6)
 Ihr habt alles abgelaufen und euch tun die Füße weh? Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
 Tragt euch in die Whatsapp-Gruppen ein und wenn Ihr Bock habt, dann kommt noch mit in die Mensa oder chillt mit uns im vierten OG.
 Wir freuen uns auf euch!
