@@ -14,7 +14,7 @@ Nur so könnt Ihr beweisen, dass Ihr alle Aufgaben gemacht habt.
 
 Hier habt Ihr nochmal den Campusplan.
 Den werdet Ihr brauchen, um euch zurechtzufinden.
-![Campusplan](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/EyH9AEzeBC5LtsG?file=/&fileId=8427337&x=1920&y=1080&a=true&etag=c3ba985109c13b6ed57fcbe93de1aadc)
+![Campusplan](https://clousi.hs-mannheim.de/index.php/s/fcq6sgjnsLKQMHP/download?path=&files=)
 [Plan in Groß](https://www.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusplan/campusplan_de.pdf)
 
 Die Rallye verläuft durch die Gebäude, in denen Ihr auch Vorlesungen haben werdet.
@@ -31,7 +31,7 @@ Seid so lieb und fragt vorher alle im Team, ob das in Ordnung ist, wenn sie auf 
 # Stage 0 - Kennenlernen [MTB/IEB/TIB/KIB]
 <!--Todo: Bild sieht arg nach Stockphoto aus. Gibt's da Nichts anders?-->
 <!--![Meeting](https://www.chase.com/content/dam/unified-assets/photography/articles/student/student_taking-community-college-classes-while-in-university.jpg)-->
-![Meeting](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/xeej6k3fYomgGFN?file=/&fileId=8453745&x=1152&y=768&a=true&etag=0ce6253438094d72521f06abcbbe7b7a)
+![Meeting](https://clousi.hs-mannheim.de/index.php/s/Ze9rjaTMYc3kReW/download?path=&files=)
 Schön, ihr habt euch in eurem Team eingefunden. Vielleicht kennt ihr euch ja schon, vielleicht aber auch noch gar nicht.
 Ein Studium ist der perfekte Ort um neue Leute kennenzulernen.
 
@@ -41,9 +41,7 @@ Findet erstmal heraus, welcher Heimatort eurer Teammitglieder am entferntesten v
 
 # A307 - Physikraum  👨‍💻💻💻 [MTB/IEB/TIB/KIB]
 <!---Todo: Bild machen.-->
-<!--
-![A-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/PEiJTZgNCdJbDos?file=/&fileId=8427501&x=1920&y=1080&a=true&etag=a1c9b7dd16fa63469de98fe1173c1615)
--->
+![A-Gebäude](https://clousi.hs-mannheim.de/index.php/s/9D4xSZgjP4emfCY/download?path=&files=)
 Das A-Gebäude ist die Heimat der Fakultät Informatik.
 Ersties dieser Fakultät haben sich leider für das falsche Studium entschieden 😉
 Spaß. Die sind auch echt in Ordnung.
@@ -96,7 +94,7 @@ Könnt Ihr auch gerne mit Markierung auf IG posten.
 Zeigt uns am Ende der Rallye das Foto. Falls die Stände bereits abgebaut sind, lasst Ihr diese Station einfach aus.
 
 # S120 - Sekretariat 🖊💻📅 [MTB/IEB/TIB/KIB]
-![S-Gebäude](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/9npSjZDTst67Xca?file=/&fileId=8427533&x=1920&y=1080&a=true&etag=9ff4175e26d7f5a4feabacaa8da292dc)
+![S-Gebäude](https://clousi.hs-mannheim.de/index.php/s/pTP6ciN3t3xPG28/download?path=&files=)
 
 Das Sekretariat der Fakultät Informationstechnik ist im S-Gebäude.
 Genauer gesagt befindet es sich in Raum S120.
@@ -117,7 +115,7 @@ Wenn Ihr alles richtig habt, wird er euch das Lösungswort geben.
 Bitte aufschreiben!
 
 # S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 [MTB/IEB/TIB/KIB]
-![Büro Giehl](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/KgCrnZfdWmATN4q?file=/&fileId=8427558&x=1920&y=1080&a=true&etag=511f78121a14ccb72c27707fabd6b86d)
+![Büro Giehl](https://clousi.hs-mannheim.de/index.php/s/r9yARLyp9iD2Pkr/download?path=&files=)
 <!--Todo: Giehl vielleicht nicht da. Sollte man eräwhnen.-->
 
 Herr Giehl ist euer Grundstudiumsleiter.
@@ -137,7 +135,7 @@ Geht an die PCs und meldet Euch bei Moodle an. Gibt es die Teammitglieder, die n
 Anschließend erhalten Ihr das Lösungswort.
 
 # R106 - Büro von Herr Tan 🛫🛫🛫 [MTB/IEB/TIB/KIB]
-![Tan](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/343bYdN2yNKtBk7?file=/&fileId=8427559&x=1920&y=1080&a=true&etag=66ef0a7389456900161f54d135d0da86)
+![Tan](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/7H5qbBjoLJtLDHS?file=/&fileId=11009658&x=3584&y=2240&a=true&etag=6454d84a4e9e699650b52050a7cf9605)
 Herr Tan ist der neue Studiengangleiter des Studiengangs Informationstechnik / Elektronik sowie der Auslandsbeauftragte der Fakultät.
 
 Herr Tan ist der Auslandsbeauftragte der Fakultät. Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester. Wir empfehlen euch es durchzuziehen.
@@ -150,7 +148,7 @@ Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das
 Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wieder ein Lösungswort. Bitte aufschreiben.
 
 # S110 -  Büro von Herr Bohli 👩‍💻🧑‍💻👨🏾‍💻 [TIB]
-![Bohli](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/F4iBK9grKB5gsAC?file=/&fileId=8427560&x=1920&y=1080&a=true&etag=0466abf1ddb0f2270918e1c849c4d642)
+![Bohli](https://clousi.hs-mannheim.de/index.php/s/ARgTxfTC4mKfzgN/download?path=&files=)
 
 Herr Bohli ist der Studiengangsleiter für den Studiengang Technische Informatik.
 
