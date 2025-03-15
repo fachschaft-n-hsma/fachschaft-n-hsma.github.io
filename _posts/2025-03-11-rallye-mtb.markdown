@@ -28,7 +28,7 @@ Seid so lieb und fragt vorher alle im Team, ob das in Ordnung ist, wenn sie auf 
 
 Übrigens: Die kreativste Gruppe bekommt einen Extra-Preis!
 
-# Stage 0 - Kennenlernen [MTB/IEB/TIB/KIB]
+# Stage 0 - Kennenlernen
 <!--Todo: Bild sieht arg nach Stockphoto aus. Gibt's da Nichts anders?-->
 <!--![Meeting](https://www.chase.com/content/dam/unified-assets/photography/articles/student/student_taking-community-college-classes-while-in-university.jpg)-->
 ![Meeting](https://clousi.hs-mannheim.de/index.php/s/Ze9rjaTMYc3kReW/download?path=&files=)
@@ -39,7 +39,7 @@ Ein Studium ist der perfekte Ort um neue Leute kennenzulernen.
 
 Findet erstmal heraus, welcher Heimatort eurer Teammitglieder am entferntesten von Mannheim liegt.
 
-# A307 - Physikraum  👨‍💻💻💻 [MTB/IEB/TIB/KIB]
+# A307 - Physikraum  👨‍💻💻💻
 <!---Todo: Bild machen.-->
 ![A-Gebäude](https://clousi.hs-mannheim.de/index.php/s/9D4xSZgjP4emfCY/download?path=&files=)
 Das A-Gebäude ist die Heimat der Fakultät Informatik.
@@ -57,7 +57,7 @@ Begebt euch in den Raum A307. Hier findet im Semester auch die Mathesprechstunde
 Hier geht es um die wichtige Frage, wie Ihr das Studium erfolgreich meistern könnt und welche Beratungsmöglichkeiten es gibt, wenn im Laufe des Studiums Schwierigkeiten auftreten.
 Sprecht mit den Anwesenden und lasst Euch am Ende das Lösungswort geben.
 
-# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️ [MTB/IEB/TIB/KIB]
+# J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️
 ![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
 
 Vielleicht sind euch in Mannheim schonmal die blauen VRNextbike-Fahrräder aufgefallen.
@@ -79,7 +79,7 @@ Ladet die Nextbike App aus dem App-Store herunter.
 
 Wenn Ihr Bock habt, hockt euch gerne zusammen auf die Räder, macht ein Gruppenfoto und markiert uns auf Insta.
 
-# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁 [MTB/IEB/TIB/KIB]
+# Vor dem Hochhaus - Delta Racing 🏎 🏎 🏁
 ![Delta-Racing](https://images.ctfassets.net/xj8295s6v7rc/60K08xxY8oHQsqXAR9RpZG/810d81037a40a179bc10ca2543f1c900/DR22-E.jpg)
 
 Delta Racing ist ein Team aus etwa 60 Studis, die Elektro-Rennwagen bauen.
@@ -93,7 +93,7 @@ Könnt Ihr auch gerne mit Markierung auf IG posten.
 
 Zeigt uns am Ende der Rallye das Foto. Falls die Stände bereits abgebaut sind, lasst Ihr diese Station einfach aus.
 
-# S120 - Sekretariat 🖊💻📅 [MTB/IEB/TIB/KIB]
+# S120 - Sekretariat 🖊💻📅
 ![S-Gebäude](https://clousi.hs-mannheim.de/index.php/s/pTP6ciN3t3xPG28/download?path=&files=)
 
 Das Sekretariat der Fakultät Informationstechnik ist im S-Gebäude.
@@ -106,7 +106,7 @@ Gerade wenn Ihr Schwierigkeiten im Studium habt, z.B. Prüfungsangst oder privat
 
 Was hängt untypisches im Schaukasten gegenüber?
 
-# S216 - Büro von Herr Poppendieck 🧬🧬🧬 [MTB]
+# S216 - Büro von Herr Poppendieck 🧬🧬🧬
 ![Büro Poppi](https://clousi.hs-mannheim.de/index.php/s/EKxk5SNeWNtX74G/download?path=&files=)
 
 Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
@@ -123,7 +123,7 @@ Ordnet die Bilder den Begriffen zu.
 Wenn Ihr alles richtig habt, wird er euch das Lösungswort geben.
 Bitte aufschreiben!
 
-# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 [MTB/IEB/TIB/KIB]
+# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫
 ![Büro Giehl](https://clousi.hs-mannheim.de/index.php/s/r9yARLyp9iD2Pkr/download?path=&files=)
 <!--Todo: Giehl vielleicht nicht da. Sollte man eräwhnen.-->
 
@@ -143,7 +143,7 @@ Sehr wichtig also!
 Geht an die PCs und meldet Euch bei Moodle an. Gibt es die Teammitglieder, die noch nicht angemeldet sind und die Hochschulmail noch nicht aktiviert haben? Wenn nicht, helft Euch gegenseitig.
 Anschließend erhalten Ihr das Lösungswort.
 
-# R106 - Büro von Herr Tan 🛫🛫🛫 [MTB/IEB/TIB/KIB]
+# R106 - Büro von Herr Tan 🛫🛫🛫
 ![Tan](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/7H5qbBjoLJtLDHS?file=/&fileId=11009658&x=3584&y=2240&a=true&etag=6454d84a4e9e699650b52050a7cf9605)
 Herr Tan ist der neue Studiengangleiter des Studiengangs Informationstechnik / Elektronik sowie der Auslandsbeauftragte der Fakultät.
 
@@ -156,7 +156,7 @@ Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vern
 Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das R- und das S- Gebäude sind zwar ein Gebäude aber man darf nicht von nach R gehen. Ihr müsst einmal aus dem S-Gebäude raus hinter zum schwarzen Kasten (O-Gebäude) und dort beim R-Gebäude den Hintereingang nehmen.
 Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wieder ein Lösungswort. Bitte aufschreiben.
 
-# L wie Library 📚📚📚 [MTB/IEB/TIB/KIB]
+# L wie Library 📚📚📚
 
 <!--Todo: Allgemeiner Hinweis Website Bibführungen-->
 ![L-Gebäude](https://upload.wikimedia.org/wikipedia/commons/c/c3/Mannheim_Hochschule_Geb%C3%A4ude11_20100917.jpg)
@@ -187,7 +187,7 @@ Signatur hat es? Könnt Ihr es im Regal finden?
 
 `Hagmann, Gert: Grundlagen der Elektrotechnik : Das bewährte Lehrbuch für Studierende der Elektrotechnik und anderer technischer Studiengänge ab 1. Semester.`
 
-# Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥 [MTB/IEB/TIB/KIB]
+# Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥
 ![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
 
 Das Studierendenwerk ist praktisch Your Partner on Campus.
@@ -210,7 +210,7 @@ Folgende Fragen könnt Ihr lösen, in dem Ihr zum Stand des Studierendenwerks au
 2. Wie hoch ist der maximale Rückzahlungsbetrag bei BAFÖG?
 3. Um was ging es im letzten Insta-Beitrag?
 
-# Zusatzfragen [MTB/IEB/TIB/KIB]
+# Zusatzfragen
 
 Was?! Ihr seid schon fertig und habt Nichts mehr zu tun?
 Hier ein paar Zusatzfragen für euch:
@@ -223,7 +223,7 @@ Hier ein paar Zusatzfragen für euch:
     3. Filmriss
 - Wo finden die Medizinvorlesungen statt?
 
-# FINALE: S409 - Fachschaftsraum 🎯🎯🏁 [MTB/IEB/TIB/KIB]
+# FINALE: S409 - Fachschaftsraum 🎯🎯🏁
 <!--Todo: Foto Fachschaftsraum-->
 ![Fachschaft](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/fSAxEGzepNNPABy?file=/&fileId=9629473&x=3584&y=2240&a=true&etag=3fb1e1fb6ef7859c3e4d60981bcde6a6)
 Ihr habt alles abgelaufen und euch tun die Füße weh? Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
