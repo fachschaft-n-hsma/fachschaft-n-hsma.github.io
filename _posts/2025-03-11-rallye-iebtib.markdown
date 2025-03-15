@@ -106,14 +106,6 @@ Gerade wenn Ihr Schwierigkeiten im Studium habt, z.B. Prüfungsangst oder privat
 
 Was hängt untypisches im Schaukasten gegenüber?
 
-**Aufgabe**
-
-Herr Poppendieck wird euch in seinem Büro (S216) verschiedene Bilder zeigen.
-Ordnet die Bilder den Begriffen zu.
-
-Wenn Ihr alles richtig habt, wird er euch das Lösungswort geben.
-Bitte aufschreiben!
-
 # S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫
 ![Büro Giehl](https://clousi.hs-mannheim.de/index.php/s/r9yARLyp9iD2Pkr/download?path=&files=)
 <!--Todo: Giehl vielleicht nicht da. Sollte man eräwhnen.-->
@@ -138,7 +130,7 @@ Anschließend erhalten Ihr das Lösungswort.
 ![Tan](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/7H5qbBjoLJtLDHS?file=/&fileId=11009658&x=3584&y=2240&a=true&etag=6454d84a4e9e699650b52050a7cf9605)
 Herr Tan ist der neue Studiengangleiter des Studiengangs Informationstechnik / Elektronik sowie der Auslandsbeauftragte der Fakultät.
 
-Herr Tan ist der Auslandsbeauftragte der Fakultät. Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester. Wir empfehlen euch es durchzuziehen.
+Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester. Wir empfehlen euch es durchzuziehen.
 
 Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen. Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig. Wenn’s dann soweit ist fragt ruhig Herr Tan.
 
