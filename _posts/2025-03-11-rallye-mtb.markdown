@@ -110,7 +110,7 @@ Was hängt untypisches im Schaukasten gegenüber?
 ![Büro Poppi](https://clousi.hs-mannheim.de/index.php/s/EKxk5SNeWNtX74G/download?path=&files=)
 
 Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
-Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von vier Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB), Informationstechnik (IEB) und KI_Ingenieruswissenschaften (KIB).
+Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von drei Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB) und Informationstechnik (IEB).
 
 Er wird im Hauptstudium euer Ansprechpartner sein, wenn Ihr MTB studiert.
 Im Hauptstudium seid Ihr erst, wenn Ihr *alle* Vorlesungen des Grundstudiums abgeschlossen habt.
@@ -147,7 +147,7 @@ Anschließend erhalten Ihr das Lösungswort.
 ![Tan](https://clousi.hs-mannheim.de/index.php/apps/files_sharing/publicpreview/7H5qbBjoLJtLDHS?file=/&fileId=11009658&x=3584&y=2240&a=true&etag=6454d84a4e9e699650b52050a7cf9605)
 Herr Tan ist der neue Studiengangleiter des Studiengangs Informationstechnik / Elektronik sowie der Auslandsbeauftragte der Fakultät.
 
-Herr Tan ist der Auslandsbeauftragte der Fakultät. Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester. Wir empfehlen euch es durchzuziehen.
+Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester. Wir empfehlen euch es durchzuziehen.
 
 Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen. Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig. Wenn’s dann soweit ist fragt ruhig Herr Tan.
 
