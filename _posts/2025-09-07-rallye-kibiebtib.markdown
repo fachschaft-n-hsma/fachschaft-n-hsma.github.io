@@ -139,7 +139,7 @@ Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vern
 Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das R- und das S- Gebäude sind zwar ein Gebäude aber man darf nicht von nach R gehen. Ihr müsst einmal aus dem S-Gebäude raus hinter zum schwarzen Kasten (O-Gebäude) und dort beim R-Gebäude den Hintereingang nehmen.
 Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wieder ein Lösungswort. Bitte aufschreiben.
 
-# S110 -  Büro von Herr Bohli 👩‍💻🧑‍💻👨🏾‍💻 [TIB]
+# S110 -  Büro von Herr Bohli 👩‍💻🧑‍💻👨🏾‍💻 
 ![Bohli]({{"/assets/images/bohli.jpg" | relative_url}})
 
 Herr Bohli ist der Studiengangsleiter für den Studiengang Technische Informatik.
@@ -150,7 +150,7 @@ Geht zu Ihm ins Büro und ratet die Antworten auf seine Fragen.
 Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
 Bitte aufschreiben!
 
-# K111 - Büro von Herr Vetter[KIB]
+# K111 - Büro von Herr Vetter
 ![Vetter]({{"/assets/images/Vetter.png" | relative_url}})
 Im Gebäude K müsst ihr in die erste Etage. Dort findest ihr das Büro von Herr Vetter. 
 Herr Vetter ist der Studiengangleiter vom neuen Studiengang KI-Ingenieurswissenschaften. 
