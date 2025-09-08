@@ -107,7 +107,7 @@ Gerade wenn Ihr Schwierigkeiten im Studium habt, z.B. Prüfungsangst oder privat
 Was hängt untypisches im Schaukasten gegenüber?
 
 # S216 - Büro von Herr Poppendieck 🧬🧬🧬 
-![Büro Poppi]({{"/assets/images/poppi.png" | relative_url}})
+![Büro Poppi]({{"/assets/images/poppi.jpg" | relative_url}})
 
 Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
 Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von vier Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB), Informationstechnik (IEB) und KI_Ingenieruswissenschaften (KIB).
