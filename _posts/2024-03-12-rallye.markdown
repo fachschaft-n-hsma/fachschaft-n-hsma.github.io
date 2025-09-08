@@ -19,7 +19,7 @@ Den werdet Ihr brauchen, um euch zurechtzufinden.
 
 Die Rallye verläuft durch die Gebäude, in denen Ihr auch Vorlesungen haben werdet.
 Ihr könnt also gerne schonmal die Räume auskundschaften, wenn ihr dran vorbeilauft.
-Die Räume eurer Fächer stehen in den Stundenplänen: [MTB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1MTB), [TIB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1TIB), [IEB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1IEB).
+Die Räume eurer Fächer stehen in den Stundenplänen: [MTB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1MTB), [TIB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1TIB), [IEB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1IEB), [KIB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1KIB).
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
