@@ -31,7 +31,7 @@ Seid so lieb und fragt vorher alle im Team, ob das in Ordnung ist, wenn sie auf 
 # Stage 0 - Kennenlernen 
 <!--Todo: Bild sieht arg nach Stockphoto aus. Gibt's da Nichts anders?-->
 <!--![Meeting](https://www.chase.com/content/dam/unified-assets/photography/articles/student/student_taking-community-college-classes-while-in-university.jpg)-->
-![Meeting]({{"/assets/images/allye.jpg" | relative_url}})
+![Meeting]({{"/assets/images/rallye.jpg" | relative_url}})
 Schön, ihr habt euch in eurem Team eingefunden. Vielleicht kennt ihr euch ja schon, vielleicht aber auch noch gar nicht.
 Ein Studium ist der perfekte Ort um neue Leute kennenzulernen.
 
@@ -110,7 +110,7 @@ Was hängt untypisches im Schaukasten gegenüber?
 ![Büro Poppi]({{"/assets/images/poppi.jpg" | relative_url}})
 
 Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
-Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von vier Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB), Informationstechnik (IEB) und KI_Ingenieruswissenschaften (KIB).
+Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von vier Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB), Informationstechnik (IEB) und KI-Ingenieruswissenschaften (KIB).
 
 Er wird im Hauptstudium euer Ansprechpartner sein, wenn Ihr MTB studiert.
 Im Hauptstudium seid Ihr erst, wenn Ihr *alle* Vorlesungen des Grundstudiums abgeschlossen habt.
@@ -141,19 +141,19 @@ Hier kann man dem/der Dozent/in auch schreiben, falls man Fragen oder Probleme h
 Sehr wichtig also!
 
 Geht an die PCs und meldet Euch bei Moodle an. Gibt es die Teammitglieder, die noch nicht angemeldet sind und die Hochschulmail noch nicht aktiviert haben? Wenn nicht, helft Euch gegenseitig.
-Anschließend erhalten Ihr das Lösungswort.
+Anschließend erhaltet Ihr das Lösungswort.
 
 # R106 - Büro von Herr Tan 🛫🛫🛫 
 ![Tan]({{"/assets/images/tan.jpg" | relative_url}})
 Herr Tan ist der neue Studiengangleiter des Studiengangs Informationstechnik / Elektronik sowie der Auslandsbeauftragte der Fakultät.
 
-Herr Tan ist der Auslandsbeauftragte der Fakultät. Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester. Wir empfehlen euch es durchzuziehen.
+Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester.
 
 Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen. Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig. Wenn’s dann soweit ist fragt ruhig Herr Tan.
 
 **Aufgabe**
 
-Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das R- und das S- Gebäude sind zwar ein Gebäude aber man darf nicht von nach R gehen. Ihr müsst einmal aus dem S-Gebäude raus hinter zum schwarzen Kasten (O-Gebäude) und dort beim R-Gebäude den Hintereingang nehmen.
+Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das R- und das S- Gebäude sind zwar ein Gebäude aber man darf nicht von S nach R gehen. Ihr müsst einmal aus dem S-Gebäude raus hinter zum schwarzen Kasten (O-Gebäude) und dort beim R-Gebäude den Hintereingang nehmen.
 Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wieder ein Lösungswort. Bitte aufschreiben.
 
 # L wie Library 📚📚📚 
@@ -171,7 +171,7 @@ Die Ausleihzeit für Bücher beträgt vier Wochen.
 Ebooks müssen obviously nicht zurückgegeben werden.
 Die PDFs dürft ihr ruhig behalten 😉
 
-Neben der Bib gibt’s hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum. Im L-Gebäude sitzt außerdem die Fakultät für Wirtschaftsingenieurwesen und das Sprachzentrum.
+Neben der Bib gibt’s hier noch einige Vorlesungsräume (guckt gern mal im Stundenplan) und das Sprachzentrum. Im L-Gebäude sitzt außerdem die Fakultät für Wirtschaftsingenieurwesen.
 
 **Aufgaben**
 
@@ -207,7 +207,7 @@ Heute sind sie ebenfalls, wie Delta Racing, vor dem Hochhaus.
 Folgende Fragen könnt Ihr lösen, in dem Ihr zum Stand des Studierendenwerks auf dem Campus geht. Sollte der Stand schon abgebaut sein, könnt Ihr auch auf der Webseite des Studierendenwerks Mannheim nachschauen.
 
 1. Wo kann ich mich bei persönlichen Problemen beim Studierendenwerk beraten lassen?
-2. Wie hoch ist der maximale Rückzahlungsbetrag bei BAFÖG?
+2. Wie kann ich mich zu Bafög beraten lassen und den Antrag stellen?
 3. Um was ging es im letzten Insta-Beitrag?
 
 # Zusatzfragen 
