@@ -106,19 +106,6 @@ Gerade wenn Ihr Schwierigkeiten im Studium habt, z.B. Prüfungsangst oder privat
 
 Was hängt untypisches im Schaukasten gegenüber?
 
-# R106 - Büro von Herr Tan 🛫🛫🛫 
-![Tan]({{"/assets/images/tan.jpg" | relative_url}})
-Herr Tan ist der neue Studiengangleiter des Studiengangs Informationstechnik / Elektronik sowie der Auslandsbeauftragte der Fakultät.
-
-Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester. 
-
-Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen. Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig. Wenn’s dann soweit ist fragt ruhig Herr Tan.
-
-**Aufgabe**
-
-Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das R- und das S- Gebäude sind zwar ein Gebäude aber man darf nicht von S nach R gehen. Ihr müsst einmal aus dem S-Gebäude raus hinter zum schwarzen Kasten (O-Gebäude) und dort beim R-Gebäude den Hintereingang nehmen.
-Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wieder ein Lösungswort. Bitte aufschreiben.
-
 # S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 
 ![Büro Giehl]({{"/assets/images/giehl.jpg" | relative_url}})
 <!--Todo: Giehl vielleicht nicht da. Sollte man eräwhnen.-->
