@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Campusrallye für KIB und TIB (SS)"
-date:   2026-03-15 00:00:00 +0100
+title:  "Campusrallye für KIB, IEB und TIB"
+date:   2025-09-08 00:00:00 +0100
 ---
 
 Herzlich Willkommen zur Campusrallye!
