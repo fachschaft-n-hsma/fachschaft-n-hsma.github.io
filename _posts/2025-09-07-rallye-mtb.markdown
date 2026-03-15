@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Campusrallye für MTB"
-date:   2025-09-08 00:00:00 +0100
+title:  "Campusrallye für MTB (SS)"
+date:   2025-03-15 00:00:00 +0100
 ---
 
 Herzlich Willkommen zur Campusrallye!
@@ -19,7 +19,7 @@ Den werdet Ihr brauchen, um euch zurechtzufinden.
 
 Die Rallye verläuft durch die Gebäude, in denen Ihr auch Vorlesungen haben werdet.
 Ihr könnt also gerne schonmal die Räume auskundschaften, wenn ihr dran vorbeilauft.
-Die Räume eurer Fächer stehen in dem Stundenplan [MTB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1MTB).
+Die Räume eurer Fächer stehen in dem Stundenplan [MTB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1MTB) und [IEB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1IEB).
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
@@ -106,22 +106,18 @@ Gerade wenn Ihr Schwierigkeiten im Studium habt, z.B. Prüfungsangst oder privat
 
 Was hängt untypisches im Schaukasten gegenüber?
 
-# S216 - Büro von Herr Poppendieck 🧬🧬🧬 
-![Büro Poppi]({{"/assets/images/poppi.jpg" | relative_url}})
+# R106 - Büro von Herr Tan 🛫🛫🛫 
+![Tan]({{"/assets/images/tan.jpg" | relative_url}})
+Herr Tan ist der neue Studiengangleiter des Studiengangs Informationstechnik / Elektronik sowie der Auslandsbeauftragte der Fakultät.
 
-Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
-Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von vier Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB), Informationstechnik (IEB) und KI-Ingenieruswissenschaften (KIB).
+Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester. 
 
-Er wird im Hauptstudium euer Ansprechpartner sein, wenn Ihr MTB studiert.
-Im Hauptstudium seid Ihr erst, wenn Ihr *alle* Vorlesungen des Grundstudiums abgeschlossen habt.
+Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen. Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig. Wenn’s dann soweit ist fragt ruhig Herr Tan.
 
 **Aufgabe**
 
-Herr Poppendieck wird euch in seinem Büro (S216) verschiedene Bilder zeigen.
-Ordnet die Bilder den Begriffen zu.
-
-Wenn Ihr alles richtig habt, wird er euch das Lösungswort geben.
-Bitte aufschreiben!
+Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das R- und das S- Gebäude sind zwar ein Gebäude aber man darf nicht von S nach R gehen. Ihr müsst einmal aus dem S-Gebäude raus hinter zum schwarzen Kasten (O-Gebäude) und dort beim R-Gebäude den Hintereingang nehmen.
+Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wieder ein Lösungswort. Bitte aufschreiben.
 
 # S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 
 ![Büro Giehl]({{"/assets/images/giehl.jpg" | relative_url}})
@@ -142,6 +138,22 @@ Sehr wichtig also!
 
 Geht an die PCs und meldet Euch bei Moodle an. Gibt es die Teammitglieder, die noch nicht angemeldet sind und die Hochschulmail noch nicht aktiviert haben? Wenn nicht, helft Euch gegenseitig.
 Anschließend erhaltet Ihr das Lösungswort.
+
+# S216 - Büro von Herr Poppendieck 🧬🧬🧬 
+![Büro Poppi]({{"/assets/images/poppi.jpg" | relative_url}})
+
+Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
+Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von vier Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB), Informationstechnik (IEB) und KI-Ingenieruswissenschaften (KIB).
+
+Er wird im Hauptstudium euer Ansprechpartner sein, wenn Ihr MTB studiert.
+Im Hauptstudium seid Ihr erst, wenn Ihr *alle* Vorlesungen des Grundstudiums abgeschlossen habt.
+
+**Aufgabe**
+
+Herr Poppendieck wird euch in seinem Büro (S216) Fragen zu den Medizinvorlesungen stellen.
+
+Wenn Ihr alles richtig habt, wird er euch das Lösungswort geben.
+Bitte aufschreiben!
 
 # R106 - Büro von Herr Tan 🛫🛫🛫 
 ![Tan]({{"/assets/images/tan.jpg" | relative_url}})

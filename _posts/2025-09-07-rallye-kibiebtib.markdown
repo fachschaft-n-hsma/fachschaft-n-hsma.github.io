@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Campusrallye für KIB, IEB und TIB"
-date:   2025-09-08 00:00:00 +0100
+title:  "Campusrallye für KIB und TIB (SS)"
+date:   2026-03-15 00:00:00 +0100
 ---
 
 Herzlich Willkommen zur Campusrallye!
@@ -19,7 +19,7 @@ Den werdet Ihr brauchen, um euch zurechtzufinden.
 
 Die Rallye verläuft durch die Gebäude, in denen Ihr auch Vorlesungen haben werdet.
 Ihr könnt also gerne schonmal die Räume auskundschaften, wenn ihr dran vorbeilauft.
-Die Räume eurer Fächer stehen in den Stundenplänen: [KIB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1KIB), [TIB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1TIB), [IEB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1IEB).
+Die Räume eurer Fächer stehen in den Stundenplänen: [KIB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1KIB) und [TIB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1TIB).
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
@@ -55,7 +55,7 @@ Ihr habt hier aber auch ganz reguläre Vorlesungen.
 Begebt euch in den Raum A307. Hier findet im Semester auch die Mathesprechstunde statt.
 
 Hier geht es um die wichtige Frage, wie Ihr das Studium erfolgreich meistern könnt und welche Beratungsmöglichkeiten es gibt, wenn im Laufe des Studiums Schwierigkeiten auftreten.
-Sprecht mit den Anwesenden und lasst Euch am Ende das Lösungswort geben.
+Die TutorInnen von Engineering-Start_N stellen sich und ihre Aufgaben hier vor. Lasst Euch am Ende das Lösungswort geben.
 
 # J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️ 
 ![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
@@ -125,19 +125,6 @@ Sehr wichtig also!
 
 Geht an die PCs und meldet Euch bei Moodle an. Gibt es die Teammitglieder, die noch nicht angemeldet sind und die Hochschulmail noch nicht aktiviert haben? Wenn nicht, helft Euch gegenseitig.
 Anschließend erhaltet Ihr das Lösungswort.
-
-# R106 - Büro von Herr Tan 🛫🛫🛫 
-![Tan]({{"/assets/images/tan.jpg" | relative_url}})
-Herr Tan ist der neue Studiengangleiter des Studiengangs Informationstechnik / Elektronik sowie der Auslandsbeauftragte der Fakultät.
-
-Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester. 
-
-Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen. Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig. Wenn’s dann soweit ist fragt ruhig Herr Tan.
-
-**Aufgabe**
-
-Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das R- und das S- Gebäude sind zwar ein Gebäude aber man darf nicht von S nach R gehen. Ihr müsst einmal aus dem S-Gebäude raus hinter zum schwarzen Kasten (O-Gebäude) und dort beim R-Gebäude den Hintereingang nehmen.
-Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wieder ein Lösungswort. Bitte aufschreiben.
 
 # S110 -  Büro von Herr Bohli 👩‍💻🧑‍💻👨🏾‍💻 
 ![Bohli]({{"/assets/images/bohli.jpg" | relative_url}})
