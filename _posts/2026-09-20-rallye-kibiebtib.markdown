@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Campusrallye für MTB"
+title:  "Campusrallye für KIB, IEB und TIB"
 date:   2026-09-20 00:00:00 +0100
 ---
 
@@ -140,21 +140,22 @@ Sehr wichtig also!
 Geht an die PCs und meldet Euch bei Moodle an. Gibt es die Teammitglieder, die noch nicht angemeldet sind und die Hochschulmail noch nicht aktiviert haben? Wenn nicht, helft Euch gegenseitig.
 Anschließend erhaltet Ihr das Lösungswort.
 
-# S216 - Büro von Herr Poppendieck 🧬🧬🧬 
-![Büro Poppi]({{"/assets/images/poppi.jpg" | relative_url}})
+# S110 -  Büro von Herr Bohli 👩‍💻🧑‍💻👨🏾‍💻 
+![Bohli]({{"/assets/images/bohli.jpg" | relative_url}})
 
-Herr Poppendieck ist der Studiengangsleiter für Medizintechnik.
-Als Ihr euch immatrikuliert habt, habt Ihr euch für einen von vier Studiengängen entschieden: Medizintechnik (MTB), Technische Informatik (TIB), Informationstechnik (IEB) und KI-Ingenieruswissenschaften (KIB).
-
-Er wird im Hauptstudium euer Ansprechpartner sein, wenn Ihr MTB studiert.
-Im Hauptstudium seid Ihr erst, wenn Ihr *alle* Vorlesungen des Grundstudiums abgeschlossen habt.
+Herr Bohli ist der Studiengangsleiter für den Studiengang Technische Informatik.
 
 **Aufgabe**
 
-Herr Poppendieck wird euch in seinem Büro (S216) Fragen zu den Medizinvorlesungen stellen.
-
-Wenn Ihr alles richtig habt, wird er euch das Lösungswort geben.
+Geht zu Ihm ins Büro und ratet die Antworten auf seine Fragen.
+Wenn ihr alles richtig habt, wird er euch ein Lösungswort sagen.
 Bitte aufschreiben!
+
+# K111 - Büro von Herr Vetter
+![Vetter]({{"/assets/images/Vetter.png" | relative_url}})
+Im Gebäude K müsst ihr in die erste Etage. Dort findest ihr das Büro von Herr Vetter. 
+Herr Vetter ist der Studiengangleiter vom neuen Studiengang KI-Ingenieurswissenschaften. 
+Er hält ein Aufgabenblatt für euch bereit. Wenn ihr die Aufgaben gelöst habt, erhaltet ihr ein Lösungswort.
 
 # L wie Library 📚📚📚 
 
