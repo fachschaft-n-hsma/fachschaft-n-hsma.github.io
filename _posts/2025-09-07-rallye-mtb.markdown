@@ -15,7 +15,7 @@ Nur so könnt Ihr beweisen, dass Ihr alle Aufgaben gemacht habt.
 Hier habt Ihr nochmal den Campusplan.
 Den werdet Ihr brauchen, um euch zurechtzufinden.
 ![Campusplan]({{"/assets/images/campusplan.png" | relative_url}})
-[Plan in Groß](https://www.hs-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusplan/campusplan_de.pdf)
+[Plan in Groß](https://www.th-mannheim.de/fileadmin/user_upload/hauptseite/Bilder/campusplan/campusplan_de.pdf)
 
 Die Rallye verläuft durch die Gebäude, in denen Ihr auch Vorlesungen haben werdet.
 Ihr könnt also gerne schonmal die Räume auskundschaften, wenn ihr dran vorbeilauft.
