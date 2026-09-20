@@ -19,7 +19,7 @@ Den werdet Ihr brauchen, um euch zurechtzufinden.
 
 Die Rallye verläuft durch die Gebäude, in denen Ihr auch Vorlesungen haben werdet.
 Ihr könnt also gerne schonmal die Räume auskundschaften, wenn ihr dran vorbeilauft.
-Die Räume eurer Fächer stehen in den Stundenplänen: [KIB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1KIB) und [TIB](https://services.informatik.hs-mannheim.de/stundenplan/?xsem=1TIB).
+Die Räume eurer Fächer stehen in dem Stundenplan [MTB](https://services.informatik.th-mannheim.de/stundenplan/?xsem=1MTB).
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
@@ -52,10 +52,10 @@ Ihr habt hier aber auch ganz reguläre Vorlesungen.
 **Aufgabe**
 
 <!--Todo: Aufgabe noch unklar.-->
-Begebt euch in den Raum A307. Hier findet im Semester auch die Mathesprechstunde statt.
+Ab zu Raum A307! 🚀
+Hier findet ihr während des Semesters die Grundstudiumsberatung.
 
-Hier geht es um die wichtige Frage, wie Ihr das Studium erfolgreich meistern könnt und welche Beratungsmöglichkeiten es gibt, wenn im Laufe des Studiums Schwierigkeiten auftreten.
-Die TutorInnen von Engineering-Start_N stellen sich und ihre Aufgaben hier vor. Lasst Euch am Ende das Lösungswort geben.
+Next Step: Löst die Aufgabe, die neben der Tür hängt – und dann geht’s direkt weiter zur nächsten Station! 🧩➡️
 
 # J-Gebäude - Nextbike Station 🚴‍♂️🚴‍♂️🚴‍♂️ 
 ![Nextbike](https://www.mannheim.de/sites/default/files/styles/gallery_full/public/page/65117/images/vrn_nextbike_fahrrad.jpg?itok=PpgEZArO)
@@ -98,7 +98,7 @@ Zeigt uns am Ende der Rallye das Foto. Falls die Stände bereits abgebaut sind, 
 
 Das Sekretariat der Fakultät Informationstechnik ist im S-Gebäude.
 Genauer gesagt befindet es sich in Raum S120.
-Es ist Mo-Do von 09:00 - 12:00 Uhr besetzt.
+Es ist Mo-Do von 8:30 – 11:30 Uhr besetzt.
 
 Gerade wenn Ihr Schwierigkeiten im Studium habt, z.B. Prüfungsangst oder private Schwierigkeiten, traut Euch, zu Fr. Kreuzholz zu gehen und ihr davon zu berichten. Sie kann Euch helfen, das richtige Unterstützungsangebot und den passenden Ansprechpartner zu finden. Es gibt hier an der TH sehr viele Angebote, die die Studierenden sehr gerne unterstützen.
 
@@ -106,14 +106,28 @@ Gerade wenn Ihr Schwierigkeiten im Studium habt, z.B. Prüfungsangst oder privat
 
 Was hängt untypisches im Schaukasten gegenüber?
 
-# S218 - Büro von Herr Giehl 👨‍🏫👨‍🏫👨‍🏫 
-![Büro Giehl]({{"/assets/images/giehl.jpg" | relative_url}})
+# R106 - Büro von Herr Tan 🛫🛫🛫 
+![Tan]({{"/assets/images/tan.jpg" | relative_url}})
+Herr Tan ist der Studiengangleiter des Studiengangs Informationstechnik / Elektronik sowie der Auslandsbeauftragte der Fakultät.
+
+Im Laufe eures Studiums habt Ihr Zeit für ein Auslandssemester.
+
+Es ist eine einmalige Chance um International Leute kennenzulernen, sich zu vernetzen und Projekte umzusetzen. Macht es aber bitte erst im Hauptstudium, sonst wird das Grundstudium wirklich zu stressig. Wenn’s dann soweit ist fragt ruhig Herr Tan.
+
+**Aufgabe**
+
+Herr Tans Büro ist ein wenig versteckt. Es ist in R106, also im R-Gebäude. Das R- und das S- Gebäude sind zwar ein Gebäude aber man darf nicht von S nach R gehen. Ihr müsst einmal aus dem S-Gebäude raus hinter zum schwarzen Kasten (O-Gebäude) und dort beim R-Gebäude den Hintereingang nehmen.
+Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wieder ein Lösungswort. Bitte aufschreiben.
+
+
+# R006 - Büro von Herr Krocker 👨‍🏫👨‍🏫👨‍🏫
+![Büro krocker]({{"/assets/images/krocker.png" | relative_url}})
 <!--Todo: Giehl vielleicht nicht da. Sollte man eräwhnen.-->
 
-Herr Giehl ist euer Grundstudiumsleiter.
+Herr Krocker ist euer Grundstudiumsleiter. 
 Falls Ihr bei dem Vortrag der Profs vorhin aufgepasst habt (und wir hoffen das habt Ihr), dann wisst Ihr, dass euer Studium aus einem Grund- oder Hauptstudium besteht.
-Wenn Ihr während des Grundstudiums Probleme habt oder euch Dinge unklar sind, ist Herr Giehl euer Ansprechpartner.
-Er sitzt in S218.
+Wenn Ihr während des Grundstudiums Probleme habt oder euch Dinge unklar sind, ist Herr Krocker euer Ansprechpartner.
+Er sitzt in R006 bzw. R005.
 Falls er nicht da ist, müsst Ihr zuerst eine andere Stage machen.
 
 **Aufgabe**
@@ -142,7 +156,6 @@ Bitte aufschreiben!
 Im Gebäude K müsst ihr in die erste Etage. Dort findest ihr das Büro von Herr Vetter. 
 Herr Vetter ist der Studiengangleiter vom neuen Studiengang KI-Ingenieurswissenschaften. 
 Er hält ein Aufgabenblatt für euch bereit. Wenn ihr die Aufgaben gelöst habt, erhaltet ihr ein Lösungswort.
-
 
 # L wie Library 📚📚📚 
 
@@ -176,7 +189,7 @@ Signatur hat es? Könnt Ihr es im Regal finden?
 `Hagmann, Gert: Grundlagen der Elektrotechnik : Das bewährte Lehrbuch für Studierende der Elektrotechnik und anderer technischer Studiengänge ab 1. Semester.`
 
 # Vor dem Hochhaus - Studierendenwerk 🥘🏠🏥 
-![STWMA](https://www.jobs-studentenwerke.de/sites/default/files/styles/logo_studentenwerk/public/user-files/Studierendenwerk%20Mannheim/logos/logostwma.png?itok=B2LojiqU)
+![STWMA](https://www.stw-ma.de/wp-content/uploads/2024/02/Logo_STW_MA_3C.png)
 
 Das Studierendenwerk ist praktisch Your Partner on Campus.
 Es betreibt die Mensen, hilft euch wenn euch euer Studium stresst und verschafft euch einen Wohnheimsplatz, wenn ihr daheim ausziehen wollt.
@@ -194,9 +207,9 @@ Heute sind sie ebenfalls, wie Delta Racing, vor dem Hochhaus.
 
 Folgende Fragen könnt Ihr lösen, in dem Ihr zum Stand des Studierendenwerks auf dem Campus geht. Sollte der Stand schon abgebaut sein, könnt Ihr auch auf der Webseite des Studierendenwerks Mannheim nachschauen.
 
-1. Wo kann ich mich bei persönlichen Problemen beim Studierendenwerk beraten lassen?
-2. Wie kann ich mich zu Bafög beraten lassen und den Antrag stellen?
-3. Um was ging es im letzten Insta-Beitrag?
+1. Wo kann ich mich bei finanziellen Schwierigkeiten beraten lassen?
+2. Wofür steht PBS?
+3. Um was ging es im letzten Instagram-Reel? 
 
 # Zusatzfragen 
 
@@ -209,11 +222,11 @@ Hier ein paar Zusatzfragen für euch:
     1. Nelson
     2. Palmbräu Gasse
     3. Filmriss
-- Wo finden die Medizinvorlesungen statt?
+
 
 # FINALE: S409 - Fachschaftsraum 🎯🎯🏁 
 <!--Todo: Foto Fachschaftsraum-->
-![Fachschaft]({{"/assets/images/Fachschaft.jpg" | relative_url}})
+![Fachschaft]({{"/assets/images/Fachschaft.jpeg" | relative_url}})
 Ihr habt alles abgelaufen und euch tun die Füße weh? Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
 Tragt euch in die Whatsapp-Gruppen ein und wenn Ihr Bock habt, dann kommt noch mit in die Mensa oder chillt mit uns im vierten OG.
 Wir freuen uns auf euch!
