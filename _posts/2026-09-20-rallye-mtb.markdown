@@ -121,7 +121,7 @@ Geht zu seinem Büro und ratet die Antworten auf seine Fragen. Er gibt euch wied
 
 
 # R006 - Büro von Herr Krocker 👨‍🏫👨‍🏫👨‍🏫
-![Büro Giehl]({{"/assets/images/krocker.jpg" | relative_url}})
+![Büro krocker]({{"/assets/images/krocker.png" | relative_url}})
 <!--Todo: Giehl vielleicht nicht da. Sollte man eräwhnen.-->
 
 Herr Krocker ist euer Grundstudiumsleiter. 
@@ -225,7 +225,7 @@ Hier ein paar Zusatzfragen für euch:
 
 # FINALE: S409 - Fachschaftsraum 🎯🎯🏁 
 <!--Todo: Foto Fachschaftsraum-->
-![Fachschaft]({{"/assets/images/Fachschaft.jepg" | relative_url}})
+![Fachschaft]({{"/assets/images/Fachschaft.jpeg" | relative_url}})
 Ihr habt alles abgelaufen und euch tun die Füße weh? Dann kommt zum neuen Fachschaftsraum in S419 und holt euch euren wohlverdienten Fachschaftsrucksack und eure Goodies ab.
 Tragt euch in die Whatsapp-Gruppen ein und wenn Ihr Bock habt, dann kommt noch mit in die Mensa oder chillt mit uns im vierten OG.
 Wir freuen uns auf euch!
