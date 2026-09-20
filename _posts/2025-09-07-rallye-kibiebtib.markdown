@@ -223,6 +223,13 @@ Hier ein paar Zusatzfragen für euch:
     2. Palmbräu Gasse
     3. Filmriss
 
+![Ralf]({{"/assets/images/nino.png" | relative_url}})
+
+- Wie heißt das Fachschaftsmaskottchen?
+    1. Dino
+    2. Nino
+    3. Rex
+
 
 # FINALE: S409 - Fachschaftsraum 🎯🎯🏁 
 <!--Todo: Foto Fachschaftsraum-->
