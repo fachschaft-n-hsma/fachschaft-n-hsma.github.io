@@ -19,7 +19,7 @@ Den werdet Ihr brauchen, um euch zurechtzufinden.
 
 Die Rallye verläuft durch die Gebäude, in denen Ihr auch Vorlesungen haben werdet.
 Ihr könnt also gerne schonmal die Räume auskundschaften, wenn ihr dran vorbeilauft.
-Die Räume eurer Fächer stehen in dem Stundenplan [MTB](https://services.informatik.th-mannheim.de/stundenplan/?xsem=1MTB).
+Die Räume eurer Fächer stehen in dem Stundenplan [IEB](https://services.informatik.th-mannheim.de/stundenplan/?xsem=1IEB), [KIB](https://services.informatik.th-mannheim.de/stundenplan/?xsem=1KIB), [MTB](https://services.informatik.th-mannheim.de/stundenplan/?xsem=1MTB), [TIB](https://services.informatik.th-mannheim.de/stundenplan/?xsem=1TIB).
 Heute sind keine Vorlesungen.
 Ihr werdet also niemand stören.
 
@@ -222,6 +222,7 @@ Hier ein paar Zusatzfragen für euch:
     1. Nelson
     2. Palmbräu Gasse
     3. Filmriss
+
 
 - Wie heißt das Fachschaftsmaskottchen?
     1. Dino
